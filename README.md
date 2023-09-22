@@ -2,65 +2,44 @@
  
 # Nurse Scheduling Linear Program
 
-## Variables:
+## Key Variables
 
-1. **x[i, j, k]**: A binary variable that determines whether nurse i is assigned to patient j on day k.
-2. **w[i, k]**: A binary variable that indicates whether nurse i is working on day k.
-3. **l[i, m, k]**: A binary variable that indicates whether nurse i is at location m on day k.
-4. **t[i, j, n, k]**: A binary variable that indicates whether nurse i is performing task n for patient j on day k.
+- `day_dict`: Dictionary mapping days of the week to indices.
+- `num_nurses`: Total number of nurses.
+- `num_patients`: Total number of patients.
+- `num_tasks`: Total number of tasks.
+- `num_days`: Number of days in a week (7 days).
+- `task_list`: List of tasks.
+- `medication_adherence_dict` and `physical_therapy_adherence_dict`: Dictionaries containing adherence data for medication and physical therapy, respectively.
 
-## Objective Function:
+## Decision Variables
 
-The objective function is designed to maximize the total adherence to medication and physical therapy schedules across all patients and days. It computes this by summing up the adherence percentages for each patient on each day (if that day is present in the respective adherence dataframes) and assigning tasks to nurses in a way that maximizes this total adherence.
+- \( x[i, j, k] \): Binary variable. 1 if nurse `i` is assigned to patient `j` on day `k`, 0 otherwise.
+- \( w[i, k] \): Binary variable. 1 if nurse `i` is working on day `k`, 0 otherwise.
+- \( p[i, m, k] \): Binary variable. 1 if nurse `i` is at location `m` on day `k`, 0 otherwise.
+- \( t[i, j, n, k] \): Binary variable. 1 if nurse `i` is performing task `n` for patient `j` on day `k`, 0 otherwise.
 
-## Constraints:
+## Objective Function
 
-1. **Maximum Working Days per Week**: Each nurse can work a maximum of 4 days in a week.
-2. **Task Assignment**: Each task for a patient on a specific day is assigned to exactly one nurse.
-3. **Maximum Working Hours per Day**: Each nurse can work a maximum of 10 hours per day.
-4. **Task Completion**: Each mandatory task for a patient must be completed each day (excluding tasks with adherence).
-5. **Skillset Matching**: Nurses are assigned tasks that match their skillsets.
+The objective function aims to maximize the total benefit of assigning tasks to nurses. It considers a fixed benefit for each task assignment and also adjusts based on the adherence value for medication and physical therapy tasks.
 
-## Data Loading and Processing:
+## Constraints
 
-The data (locations, nurses, patients, task execution times, medication adherence, physical therapy adherence, and distance matrix) are loaded dynamically from an Excel file and processed to extract necessary information and format them appropriately for use in the linear program.
+1. **Weekly Work Hours**: Each nurse can work up to 40 hours in a week.
+2. **Mandatory Task Coverage**: Ensure all mandatory tasks for each patient are covered.
+3. **Working Day Linking**: Link the assignment of tasks/patients to the working day binary variable.
+4. **Max Working Days**: Limit the number of days a nurse can work in a week.
+5. **Location Constraint**: Each nurse works in only one location in a given day.
+6. **Task Completion**: Ensure each necessary task for each patient is completed each day.
+7. **Single Nurse per Task**: Only one nurse is assigned to a specific task for a specific patient on a specific day.
+8. **Consecutive Location**: A nurse must work in the same location for consecutive days if they are working on both days.
 
-### Linear Programming Formulation
+## Output
 
-**Parameters**:
-- \( n \): Number of nurses.
-- \( p \): Number of patients.
-- \( t \): Number of tasks.
-- \( d \): Number of days in the planning horizon.
-- \( D_{ij} \): Distance between locations of patient \( i \) and patient \( j \).
-- \( T_k \): Time required for task \( k \).
-- \( \text{MedAdhere}_{jd} \): Medication adherence rate for patient \( j \) on day \( d \).
-- \( \text{PhysTherAdhere}_{jd} \): Physical therapy adherence rate for patient \( j \) on day \( d \).
-- \( S_i \): Skill set of nurse \( i \).
-- \( N_j \): Needs (tasks) of patient \( j \).
+The script provides the optimal objective value and a detailed schedule for each nurse, specifying the tasks they are performing for each patient on each day.
 
-**Decision Variables**:
-- \( x_{ijkd} \): 1 if nurse \( i \) performs task \( k \) for patient \( j \) on day \( d \), 0 otherwise.
+## Limitations and Considerations
 
-**Objective Function**:
-\[
-\text{Maximize } \sum_{i=1}^{n} \sum_{j=1}^{p} \sum_{k=1}^{t} \sum_{d=1}^{d} (x_{ijkd} \times \text{MedAdhere}_{jd} + x_{ijkd} \times \text{PhysTherAdhere}_{jd})
-\]
-
-**Constraints**:
-1. **Nurse's Working Time**:
-\[
-\sum_{j=1}^{p} \sum_{k=1}^{t} T_k \times x_{ijkd} + \sum_{j=1}^{p} \sum_{l=1, l\neq j}^{p} D_{jl} \times x_{ijkd} \times x_{ij'kd} \leq 8 \quad \forall i, d
-\]
-2. **Task Assignment**:
-\[
-\sum_{i=1}^{n} \sum_{d=1}^{d} x_{ijkd} = 1 \quad \forall j, k
-\]
-3. **Skills Matching**:
-\[
-x_{ijkd} \leq 1 \text{ if } k \in S_i \text{ and } k \in N_j \quad \forall i, j, k, d
-\]
-4. **Patient Adherence**:
-\[
-x_{ijkd} \leq \text{MedAdhere}_{jd} \text{ and } x_{ijkd} \leq \text{PhysTherAdhere}_{jd} \quad \forall i, j, k, d
-\]
+- This model assumes that the provided data frames (`nurses_df`, `patients_df`, `task_execution_time_df`, `locations_df`) are available in the runtime environment.
+- The adherence data for medication and physical therapy are converted to dictionaries for easier access and are used in the objective function to adjust the benefit of task assignments.
+- The model currently considers a 7-day week. Adjustments would be needed for different time frames.
