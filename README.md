@@ -25,3 +25,42 @@ The objective function is designed to maximize the total adherence to medication
 
 The data (locations, nurses, patients, task execution times, medication adherence, physical therapy adherence, and distance matrix) are loaded dynamically from an Excel file and processed to extract necessary information and format them appropriately for use in the linear program.
 
+### Linear Programming Formulation
+
+**Parameters**:
+- \( n \): Number of nurses.
+- \( p \): Number of patients.
+- \( t \): Number of tasks.
+- \( d \): Number of days in the planning horizon.
+- \( D_{ij} \): Distance between locations of patient \( i \) and patient \( j \).
+- \( T_k \): Time required for task \( k \).
+- \( \text{MedAdhere}_{jd} \): Medication adherence rate for patient \( j \) on day \( d \).
+- \( \text{PhysTherAdhere}_{jd} \): Physical therapy adherence rate for patient \( j \) on day \( d \).
+- \( S_i \): Skill set of nurse \( i \).
+- \( N_j \): Needs (tasks) of patient \( j \).
+
+**Decision Variables**:
+- \( x_{ijkd} \): 1 if nurse \( i \) performs task \( k \) for patient \( j \) on day \( d \), 0 otherwise.
+
+**Objective Function**:
+\[
+\text{Maximize } \sum_{i=1}^{n} \sum_{j=1}^{p} \sum_{k=1}^{t} \sum_{d=1}^{d} (x_{ijkd} \times \text{MedAdhere}_{jd} + x_{ijkd} \times \text{PhysTherAdhere}_{jd})
+\]
+
+**Constraints**:
+1. **Nurse's Working Time**:
+\[
+\sum_{j=1}^{p} \sum_{k=1}^{t} T_k \times x_{ijkd} + \sum_{j=1}^{p} \sum_{l=1, l\neq j}^{p} D_{jl} \times x_{ijkd} \times x_{ij'kd} \leq 8 \quad \forall i, d
+\]
+2. **Task Assignment**:
+\[
+\sum_{i=1}^{n} \sum_{d=1}^{d} x_{ijkd} = 1 \quad \forall j, k
+\]
+3. **Skills Matching**:
+\[
+x_{ijkd} \leq 1 \text{ if } k \in S_i \text{ and } k \in N_j \quad \forall i, j, k, d
+\]
+4. **Patient Adherence**:
+\[
+x_{ijkd} \leq \text{MedAdhere}_{jd} \text{ and } x_{ijkd} \leq \text{PhysTherAdhere}_{jd} \quad \forall i, j, k, d
+\]
