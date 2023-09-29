@@ -1,45 +1,55 @@
-# Project1
- 
-# Nurse Scheduling Linear Program
+# Nurse Scheduling Optimization
 
-## Key Variables
+## Introduction
 
-- `day_dict`: Dictionary mapping days of the week to indices.
-- `num_nurses`: Total number of nurses.
-- `num_patients`: Total number of patients.
-- `num_tasks`: Total number of tasks.
-- `num_days`: Number of days in a week (7 days).
-- `task_list`: List of tasks.
-- `medication_adherence_dict` and `physical_therapy_adherence_dict`: Dictionaries containing adherence data for medication and physical therapy, respectively.
+This project aims to optimize the scheduling of nurses to improve patient adherence to medical tasks while considering various constraints. The scheduling problem is formulated as a mixed-integer linear programming (MILP) problem and is solved using the Gurobi Optimizer.
 
-## Decision Variables
+## Dependencies
 
-- \( x[i, j, k] \): Binary variable. 1 if nurse `i` is assigned to patient `j` on day `k`, 0 otherwise.
-- \( w[i, k] \): Binary variable. 1 if nurse `i` is working on day `k`, 0 otherwise.
-- \( p[i, m, k] \): Binary variable. 1 if nurse `i` is at location `m` on day `k`, 0 otherwise.
-- \( t[i, j, n, k] \): Binary variable. 1 if nurse `i` is performing task `n` for patient `j` on day `k`, 0 otherwise.
+- Python
+- Gurobi Optimizer
+- NumPy
 
-## Objective Function
+## Problem Formulation
 
-The objective function aims to maximize the total benefit of assigning tasks to nurses. It considers a fixed benefit for each task assignment and also adjusts based on the adherence value for medication and physical therapy tasks.
+The optimization problem is formulated with the following components:
 
-## Constraints
+### Decision Variables
+- \( x[i, j, k] \): Binary variable indicating whether nurse \(i\) is assigned to patient \(j\) on day \(k\).
+- \( w[i, k] \): Binary variable indicating whether nurse \(i\) is working on day \(k\).
+- \( p[i, m, k] \): Binary variable indicating whether nurse \(i\) is at location \(m\) on day \(k\).
+- \( t[i, j, n, k] \): Binary variable indicating whether nurse \(i\) is performing task \(n\) for patient \(j\) on day \(k\).
+- \( D[i, m, k] \): Binary variable indicating whether nurse \(i\) is at location \(m\) on day \(k\).
 
-1. **Weekly Work Hours**: Each nurse can work up to 40 hours in a week.
-2. **Mandatory Task Coverage**: Ensure all mandatory tasks for each patient are covered.
-3. **Working Day Linking**: Link the assignment of tasks/patients to the working day binary variable.
-4. **Max Working Days**: Limit the number of days a nurse can work in a week.
-5. **Location Constraint**: Each nurse works in only one location in a given day.
-6. **Task Completion**: Ensure each necessary task for each patient is completed each day.
-7. **Single Nurse per Task**: Only one nurse is assigned to a specific task for a specific patient on a specific day.
-8. **Consecutive Location**: A nurse must work in the same location for consecutive days if they are working on both days.
+### Objective Function
+The objective is to maximize the adherence score, calculated as a weighted sum of adherence levels for each task assigned to each patient.
 
-## Output
+### Constraints
+- Each nurse can work up to 10 hours a day.
+- Each nurse can work a maximum of 4 days a week.
+- Nurses can only be assigned tasks that match their skills.
+- Each nurse can only work at one location per day.
+- Nurses can only be assigned to a task for a patient if they are at the patient's location.
+- Each patient's necessary tasks must be completed.
+- Each task for a patient can only be assigned to one nurse per day.
+- Nurses can only change their working location a limited number of times per week.
 
-The script provides the optimal objective value and a detailed schedule for each nurse, specifying the tasks they are performing for each patient on each day.
+## Usage
 
-## Limitations and Considerations
+1. Prepare the data in the required format. You would need the following dataframes:
+   - `nurses_df`: Contains information about each nurse, including their skillset.
+   - `patients_df`: Contains information about each patient, including their location and needed tasks.
+   - `task_execution_time_df`: Contains information about each task, including execution time.
+   - `locations_df`: Contains information about each location.
+   - `medication_adherence_df` and `physical_therapy_adherence_df`: Contains adherence information for medication and physical therapy tasks.
 
-- This model assumes that the provided data frames (`nurses_df`, `patients_df`, `task_execution_time_df`, `locations_df`) are available in the runtime environment.
-- The adherence data for medication and physical therapy are converted to dictionaries for easier access and are used in the objective function to adjust the benefit of task assignments.
-- The model currently considers a 7-day week. Adjustments would be needed for different time frames.
+2. Run the optimization model by creating an instance of the `Model` class from Gurobi and defining the decision variables, objective function, and constraints as shown in the provided code.
+
+3. Call `model.optimize()` to solve the optimization problem.
+
+4. If the problem is solved optimally, the schedule for each nurse will be printed, showing the tasks assigned to them for each day of the week.
+
+## Conclusion
+
+This nurse scheduling optimization tool helps in efficiently assigning tasks to nurses while considering various constraints, aiming to improve patient adherence to medical tasks.
+
