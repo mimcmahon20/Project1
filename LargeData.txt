@@ -1,0 +1,2422 @@
+Nurse_1 
+ Skills: ['wound care'] 
+ Total Hours Worked: 13.33
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 3.33)
+    - Helping Patient_19 with wound care in Arlington
+    - Helping Patient_70 with wound care in Arlington
+    - Helping Patient_79 with wound care in Arlington
+    - Helping Patient_82 with wound care in Arlington
+
+
+  Day W: Working (Total Hours Worked: 3.33)
+    - Helping Patient_19 with wound care in Arlington
+    - Helping Patient_70 with wound care in Arlington
+    - Helping Patient_79 with wound care in Arlington
+    - Helping Patient_82 with wound care in Arlington
+
+
+  Day Th: Off
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 3.33)
+    - Helping Patient_19 with wound care in Arlington
+    - Helping Patient_70 with wound care in Arlington
+    - Helping Patient_79 with wound care in Arlington
+    - Helping Patient_82 with wound care in Arlington
+
+
+  Day Su: Working (Total Hours Worked: 3.33)
+    - Helping Patient_19 with wound care in Arlington
+    - Helping Patient_70 with wound care in Arlington
+    - Helping Patient_79 with wound care in Arlington
+    - Helping Patient_82 with wound care in Arlington
+
+
+Nurse_2 
+ Skills: ['drawing blood', 'physical therapy', 'personal hygiene assistance'] 
+ Total Hours Worked: 30.77
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 8.33)
+    - Helping Patient_30 with personal hygiene assistance in Norfolk
+    - Helping Patient_32 with personal hygiene assistance in Norfolk
+    - Helping Patient_35 with drawing blood in Norfolk
+    - Helping Patient_49 with drawing blood in Norfolk
+    - Helping Patient_60 with drawing blood in Norfolk
+    - Helping Patient_64 with drawing blood in Norfolk
+
+
+  Day W: Working (Total Hours Worked: 5.93)
+    - Helping Patient_35 with drawing blood in Norfolk
+    - Helping Patient_49 with drawing blood in Norfolk
+    - Helping Patient_60 with drawing blood in Norfolk
+    - Helping Patient_64 with drawing blood in Norfolk
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 8.30)
+    - Helping Patient_30 with personal hygiene assistance in Norfolk
+    - Helping Patient_32 with personal hygiene assistance in Norfolk
+    - Helping Patient_35 with drawing blood in Norfolk
+    - Helping Patient_35 with physical therapy in Norfolk
+    - Helping Patient_60 with drawing blood in Norfolk
+    - Helping Patient_64 with drawing blood in Norfolk
+
+
+  Day S: Working (Total Hours Worked: 8.20)
+    - Helping Patient_6 with physical therapy in Arlington
+    - Helping Patient_79 with physical therapy in Arlington
+    - Helping Patient_81 with physical therapy in Arlington
+    - Helping Patient_82 with personal hygiene assistance in Arlington
+    - Helping Patient_89 with physical therapy in Arlington
+    - Helping Patient_89 with personal hygiene assistance in Arlington
+
+
+  Day Su: Off
+
+Nurse_3 
+ Skills: ['physical therapy'] 
+ Total Hours Worked: 24.65
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 2.90)
+    - Helping Patient_2 with physical therapy in Lynchburg
+    - Helping Patient_57 with physical therapy in Lynchburg
+
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 5.80)
+    - Helping Patient_2 with physical therapy in Lynchburg
+    - Helping Patient_16 with physical therapy in Lynchburg
+    - Helping Patient_24 with physical therapy in Lynchburg
+    - Helping Patient_38 with physical therapy in Lynchburg
+
+
+  Day F: Working (Total Hours Worked: 8.70)
+    - Helping Patient_2 with physical therapy in Lynchburg
+    - Helping Patient_15 with physical therapy in Lynchburg
+    - Helping Patient_16 with physical therapy in Lynchburg
+    - Helping Patient_24 with physical therapy in Lynchburg
+    - Helping Patient_46 with physical therapy in Lynchburg
+    - Helping Patient_57 with physical therapy in Lynchburg
+
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 7.25)
+    - Helping Patient_4 with physical therapy in Roanoke
+    - Helping Patient_45 with physical therapy in Roanoke
+    - Helping Patient_55 with physical therapy in Roanoke
+    - Helping Patient_71 with physical therapy in Roanoke
+    - Helping Patient_72 with physical therapy in Roanoke
+
+
+Nurse_4 
+ Skills: ['physical therapy', 'medication', 'drawing blood', 'personal hygiene assistance'] 
+ Total Hours Worked: 23.37
+
+  Day M: Working (Total Hours Worked: 3.65)
+    - Helping Patient_12 with medication in Virginia Beach
+    - Helping Patient_36 with medication in Virginia Beach
+    - Helping Patient_36 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_92 with medication in Virginia Beach
+    - Helping Patient_92 with physical therapy in Virginia Beach
+
+
+  Day T: Working (Total Hours Worked: 9.27)
+    - Helping Patient_12 with medication in Virginia Beach
+    - Helping Patient_26 with drawing blood in Virginia Beach
+    - Helping Patient_36 with medication in Virginia Beach
+    - Helping Patient_36 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_59 with drawing blood in Virginia Beach
+    - Helping Patient_59 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_68 with physical therapy in Virginia Beach
+    - Helping Patient_92 with medication in Virginia Beach
+    - Helping Patient_92 with physical therapy in Virginia Beach
+
+
+  Day W: Working (Total Hours Worked: 3.85)
+    - Helping Patient_25 with physical therapy in Virginia Beach
+    - Helping Patient_36 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_59 with personal hygiene assistance in Virginia Beach
+
+
+  Day Th: Working (Total Hours Worked: 6.60)
+    - Helping Patient_32 with medication in Norfolk
+    - Helping Patient_35 with medication in Norfolk
+    - Helping Patient_35 with drawing blood in Norfolk
+    - Helping Patient_49 with drawing blood in Norfolk
+    - Helping Patient_60 with drawing blood in Norfolk
+    - Helping Patient_64 with drawing blood in Norfolk
+
+
+  Day F: Off
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_5 
+ Skills: ['personal hygiene assistance', 'medication', 'physical therapy', 'administering injections'] 
+ Total Hours Worked: 16.58
+
+  Day M: Working (Total Hours Worked: 4.93)
+    - Helping Patient_17 with personal hygiene assistance in Alexandria
+    - Helping Patient_23 with medication in Alexandria
+    - Helping Patient_29 with personal hygiene assistance in Alexandria
+    - Helping Patient_54 with medication in Alexandria
+    - Helping Patient_54 with personal hygiene assistance in Alexandria
+    - Helping Patient_83 with administering injections in Alexandria
+
+
+  Day T: Working (Total Hours Worked: 4.93)
+    - Helping Patient_17 with personal hygiene assistance in Alexandria
+    - Helping Patient_23 with medication in Alexandria
+    - Helping Patient_29 with personal hygiene assistance in Alexandria
+    - Helping Patient_54 with medication in Alexandria
+    - Helping Patient_54 with personal hygiene assistance in Alexandria
+    - Helping Patient_83 with administering injections in Alexandria
+
+
+  Day W: Working (Total Hours Worked: 4.93)
+    - Helping Patient_17 with personal hygiene assistance in Alexandria
+    - Helping Patient_23 with medication in Alexandria
+    - Helping Patient_29 with personal hygiene assistance in Alexandria
+    - Helping Patient_54 with medication in Alexandria
+    - Helping Patient_54 with personal hygiene assistance in Alexandria
+    - Helping Patient_83 with administering injections in Alexandria
+
+
+  Day Th: Off
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 1.78)
+    - Helping Patient_99 with medication in Richmond
+    - Helping Patient_99 with physical therapy in Richmond
+
+
+  Day Su: Off
+
+Nurse_6 
+ Skills: ['physical therapy', 'administering injections', 'medication'] 
+ Total Hours Worked: 22.60
+
+  Day M: Off
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 2.12)
+    - Helping Patient_15 with physical therapy in Lynchburg
+    - Helping Patient_100 with administering injections in Lynchburg
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 4.45)
+    - Helping Patient_3 with medication in Lynchburg
+    - Helping Patient_16 with medication in Lynchburg
+    - Helping Patient_27 with medication in Lynchburg
+    - Helping Patient_33 with medication in Lynchburg
+    - Helping Patient_38 with physical therapy in Lynchburg
+    - Helping Patient_43 with administering injections in Lynchburg
+    - Helping Patient_46 with medication in Lynchburg
+    - Helping Patient_100 with administering injections in Lynchburg
+
+
+  Day S: Working (Total Hours Worked: 8.80)
+    - Helping Patient_2 with physical therapy in Lynchburg
+    - Helping Patient_3 with medication in Lynchburg
+    - Helping Patient_15 with physical therapy in Lynchburg
+    - Helping Patient_16 with medication in Lynchburg
+    - Helping Patient_24 with physical therapy in Lynchburg
+    - Helping Patient_27 with medication in Lynchburg
+    - Helping Patient_33 with medication in Lynchburg
+    - Helping Patient_43 with administering injections in Lynchburg
+    - Helping Patient_46 with medication in Lynchburg
+    - Helping Patient_46 with physical therapy in Lynchburg
+    - Helping Patient_100 with administering injections in Lynchburg
+
+
+  Day Su: Working (Total Hours Worked: 7.23)
+    - Helping Patient_12 with medication in Virginia Beach
+    - Helping Patient_12 with administering injections in Virginia Beach
+    - Helping Patient_25 with physical therapy in Virginia Beach
+    - Helping Patient_26 with administering injections in Virginia Beach
+    - Helping Patient_36 with medication in Virginia Beach
+    - Helping Patient_48 with administering injections in Virginia Beach
+    - Helping Patient_68 with administering injections in Virginia Beach
+    - Helping Patient_92 with medication in Virginia Beach
+    - Helping Patient_92 with physical therapy in Virginia Beach
+    - Helping Patient_92 with administering injections in Virginia Beach
+
+
+Nurse_7 
+ Skills: ['medication', 'wound care', 'administering injections'] 
+ Total Hours Worked: 31.17
+
+  Day M: Working (Total Hours Worked: 3.50)
+    - Helping Patient_45 with wound care in Roanoke
+    - Helping Patient_55 with wound care in Roanoke
+    - Helping Patient_71 with medication in Roanoke
+    - Helping Patient_80 with wound care in Roanoke
+    - Helping Patient_80 with administering injections in Roanoke
+
+
+  Day T: Off
+
+  Day W: Off
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 8.67)
+    - Helping Patient_10 with medication in Chesapeake
+    - Helping Patient_21 with medication in Chesapeake
+    - Helping Patient_21 with administering injections in Chesapeake
+    - Helping Patient_40 with medication in Chesapeake
+    - Helping Patient_52 with administering injections in Chesapeake
+    - Helping Patient_53 with medication in Chesapeake
+    - Helping Patient_53 with wound care in Chesapeake
+    - Helping Patient_63 with administering injections in Chesapeake
+    - Helping Patient_78 with administering injections in Chesapeake
+    - Helping Patient_84 with medication in Chesapeake
+    - Helping Patient_85 with wound care in Chesapeake
+    - Helping Patient_85 with administering injections in Chesapeake
+    - Helping Patient_86 with medication in Chesapeake
+    - Helping Patient_96 with wound care in Chesapeake
+    - Helping Patient_97 with wound care in Chesapeake
+
+
+  Day S: Working (Total Hours Worked: 9.50)
+    - Helping Patient_8 with wound care in Chesapeake
+    - Helping Patient_10 with medication in Chesapeake
+    - Helping Patient_21 with medication in Chesapeake
+    - Helping Patient_21 with administering injections in Chesapeake
+    - Helping Patient_40 with medication in Chesapeake
+    - Helping Patient_52 with administering injections in Chesapeake
+    - Helping Patient_53 with medication in Chesapeake
+    - Helping Patient_53 with wound care in Chesapeake
+    - Helping Patient_63 with administering injections in Chesapeake
+    - Helping Patient_78 with administering injections in Chesapeake
+    - Helping Patient_84 with medication in Chesapeake
+    - Helping Patient_85 with wound care in Chesapeake
+    - Helping Patient_85 with administering injections in Chesapeake
+    - Helping Patient_86 with medication in Chesapeake
+    - Helping Patient_96 with wound care in Chesapeake
+    - Helping Patient_97 with wound care in Chesapeake
+
+
+  Day Su: Working (Total Hours Worked: 9.50)
+    - Helping Patient_8 with wound care in Chesapeake
+    - Helping Patient_10 with medication in Chesapeake
+    - Helping Patient_21 with medication in Chesapeake
+    - Helping Patient_21 with administering injections in Chesapeake
+    - Helping Patient_40 with medication in Chesapeake
+    - Helping Patient_52 with administering injections in Chesapeake
+    - Helping Patient_53 with medication in Chesapeake
+    - Helping Patient_53 with wound care in Chesapeake
+    - Helping Patient_63 with administering injections in Chesapeake
+    - Helping Patient_78 with administering injections in Chesapeake
+    - Helping Patient_84 with medication in Chesapeake
+    - Helping Patient_85 with wound care in Chesapeake
+    - Helping Patient_85 with administering injections in Chesapeake
+    - Helping Patient_86 with medication in Chesapeake
+    - Helping Patient_96 with wound care in Chesapeake
+    - Helping Patient_97 with wound care in Chesapeake
+
+
+Nurse_8 
+ Skills: ['physical therapy', 'personal hygiene assistance', 'wound care'] 
+ Total Hours Worked: 22.20
+
+  Day M: Off
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 0.83)
+    - Helping Patient_98 with wound care in Williamsburg
+
+
+  Day Th: Working (Total Hours Worked: 6.75)
+    - Helping Patient_25 with physical therapy in Virginia Beach
+    - Helping Patient_36 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_59 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_68 with physical therapy in Virginia Beach
+    - Helping Patient_92 with physical therapy in Virginia Beach
+
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 5.77)
+    - Helping Patient_25 with wound care in Virginia Beach
+    - Helping Patient_48 with wound care in Virginia Beach
+    - Helping Patient_59 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_68 with physical therapy in Virginia Beach
+    - Helping Patient_92 with physical therapy in Virginia Beach
+
+
+  Day Su: Working (Total Hours Worked: 8.85)
+    - Helping Patient_12 with wound care in Virginia Beach
+    - Helping Patient_25 with wound care in Virginia Beach
+    - Helping Patient_36 with wound care in Virginia Beach
+    - Helping Patient_36 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_48 with wound care in Virginia Beach
+    - Helping Patient_59 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_68 with physical therapy in Virginia Beach
+    - Helping Patient_68 with wound care in Virginia Beach
+    - Helping Patient_90 with wound care in Virginia Beach
+
+
+Nurse_9 
+ Skills: ['wound care', 'administering injections'] 
+ Total Hours Worked: 24.17
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 3.00)
+    - Helping Patient_12 with administering injections in Virginia Beach
+    - Helping Patient_48 with wound care in Virginia Beach
+    - Helping Patient_68 with wound care in Virginia Beach
+    - Helping Patient_68 with administering injections in Virginia Beach
+
+
+  Day W: Working (Total Hours Worked: 7.50)
+    - Helping Patient_12 with wound care in Virginia Beach
+    - Helping Patient_12 with administering injections in Virginia Beach
+    - Helping Patient_25 with wound care in Virginia Beach
+    - Helping Patient_26 with administering injections in Virginia Beach
+    - Helping Patient_36 with wound care in Virginia Beach
+    - Helping Patient_48 with administering injections in Virginia Beach
+    - Helping Patient_68 with wound care in Virginia Beach
+    - Helping Patient_68 with administering injections in Virginia Beach
+    - Helping Patient_90 with wound care in Virginia Beach
+    - Helping Patient_92 with administering injections in Virginia Beach
+
+
+  Day Th: Working (Total Hours Worked: 7.67)
+    - Helping Patient_12 with wound care in Virginia Beach
+    - Helping Patient_12 with administering injections in Virginia Beach
+    - Helping Patient_25 with wound care in Virginia Beach
+    - Helping Patient_26 with administering injections in Virginia Beach
+    - Helping Patient_36 with wound care in Virginia Beach
+    - Helping Patient_48 with wound care in Virginia Beach
+    - Helping Patient_48 with administering injections in Virginia Beach
+    - Helping Patient_68 with wound care in Virginia Beach
+    - Helping Patient_90 with wound care in Virginia Beach
+    - Helping Patient_92 with administering injections in Virginia Beach
+
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 6.00)
+    - Helping Patient_12 with wound care in Virginia Beach
+    - Helping Patient_12 with administering injections in Virginia Beach
+    - Helping Patient_26 with administering injections in Virginia Beach
+    - Helping Patient_36 with wound care in Virginia Beach
+    - Helping Patient_48 with administering injections in Virginia Beach
+    - Helping Patient_68 with wound care in Virginia Beach
+    - Helping Patient_90 with wound care in Virginia Beach
+    - Helping Patient_92 with administering injections in Virginia Beach
+
+
+  Day Su: Off
+
+Nurse_10 
+ Skills: ['personal hygiene assistance', 'physical therapy', 'wound care', 'drawing blood', 'administering injections', 'medication'] 
+ Total Hours Worked: 30.50
+
+  Day M: Working (Total Hours Worked: 7.77)
+    - Helping Patient_9 with personal hygiene assistance in Williamsburg
+    - Helping Patient_14 with personal hygiene assistance in Williamsburg
+    - Helping Patient_58 with drawing blood in Williamsburg
+    - Helping Patient_67 with personal hygiene assistance in Williamsburg
+    - Helping Patient_75 with drawing blood in Williamsburg
+    - Helping Patient_75 with personal hygiene assistance in Williamsburg
+
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 9.93)
+    - Helping Patient_10 with medication in Chesapeake
+    - Helping Patient_21 with administering injections in Chesapeake
+    - Helping Patient_31 with physical therapy in Chesapeake
+    - Helping Patient_40 with medication in Chesapeake
+    - Helping Patient_52 with drawing blood in Chesapeake
+    - Helping Patient_52 with administering injections in Chesapeake
+    - Helping Patient_53 with medication in Chesapeake
+    - Helping Patient_53 with wound care in Chesapeake
+    - Helping Patient_84 with medication in Chesapeake
+    - Helping Patient_85 with wound care in Chesapeake
+    - Helping Patient_85 with administering injections in Chesapeake
+    - Helping Patient_86 with medication in Chesapeake
+    - Helping Patient_96 with wound care in Chesapeake
+    - Helping Patient_97 with wound care in Chesapeake
+
+
+  Day Th: Working (Total Hours Worked: 7.00)
+    - Helping Patient_10 with medication in Chesapeake
+    - Helping Patient_21 with medication in Chesapeake
+    - Helping Patient_21 with administering injections in Chesapeake
+    - Helping Patient_40 with medication in Chesapeake
+    - Helping Patient_52 with administering injections in Chesapeake
+    - Helping Patient_53 with medication in Chesapeake
+    - Helping Patient_53 with wound care in Chesapeake
+    - Helping Patient_63 with administering injections in Chesapeake
+    - Helping Patient_78 with administering injections in Chesapeake
+    - Helping Patient_84 with medication in Chesapeake
+    - Helping Patient_85 with wound care in Chesapeake
+    - Helping Patient_85 with administering injections in Chesapeake
+    - Helping Patient_86 with medication in Chesapeake
+
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 5.80)
+    - Helping Patient_31 with physical therapy in Chesapeake
+    - Helping Patient_78 with physical therapy in Chesapeake
+    - Helping Patient_93 with physical therapy in Chesapeake
+    - Helping Patient_95 with physical therapy in Chesapeake
+
+
+  Day Su: Off
+
+Nurse_11 
+ Skills: ['wound care'] 
+ Total Hours Worked: 16.67
+
+  Day M: Off
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 2.50)
+    - Helping Patient_23 with wound care in Alexandria
+    - Helping Patient_54 with wound care in Alexandria
+    - Helping Patient_62 with wound care in Alexandria
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 5.00)
+    - Helping Patient_24 with wound care in Lynchburg
+    - Helping Patient_27 with wound care in Lynchburg
+    - Helping Patient_28 with wound care in Lynchburg
+    - Helping Patient_33 with wound care in Lynchburg
+    - Helping Patient_47 with wound care in Lynchburg
+    - Helping Patient_57 with wound care in Lynchburg
+
+
+  Day S: Working (Total Hours Worked: 4.17)
+    - Helping Patient_24 with wound care in Lynchburg
+    - Helping Patient_27 with wound care in Lynchburg
+    - Helping Patient_33 with wound care in Lynchburg
+    - Helping Patient_47 with wound care in Lynchburg
+    - Helping Patient_57 with wound care in Lynchburg
+
+
+  Day Su: Working (Total Hours Worked: 5.00)
+    - Helping Patient_24 with wound care in Lynchburg
+    - Helping Patient_27 with wound care in Lynchburg
+    - Helping Patient_28 with wound care in Lynchburg
+    - Helping Patient_33 with wound care in Lynchburg
+    - Helping Patient_47 with wound care in Lynchburg
+    - Helping Patient_57 with wound care in Lynchburg
+
+
+Nurse_12 
+ Skills: ['medication'] 
+ Total Hours Worked: 6.00
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 1.00)
+    - Helping Patient_65 with medication in Roanoke
+    - Helping Patient_71 with medication in Roanoke
+    - Helping Patient_87 with medication in Roanoke
+
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 1.67)
+    - Helping Patient_19 with medication in Arlington
+    - Helping Patient_44 with medication in Arlington
+    - Helping Patient_70 with medication in Arlington
+    - Helping Patient_73 with medication in Arlington
+    - Helping Patient_79 with medication in Arlington
+
+
+  Day F: Working (Total Hours Worked: 1.67)
+    - Helping Patient_19 with medication in Arlington
+    - Helping Patient_44 with medication in Arlington
+    - Helping Patient_70 with medication in Arlington
+    - Helping Patient_73 with medication in Arlington
+    - Helping Patient_79 with medication in Arlington
+
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 1.67)
+    - Helping Patient_19 with medication in Arlington
+    - Helping Patient_44 with medication in Arlington
+    - Helping Patient_70 with medication in Arlington
+    - Helping Patient_73 with medication in Arlington
+    - Helping Patient_79 with medication in Arlington
+
+
+Nurse_13 
+ Skills: ['personal hygiene assistance', 'medication', 'physical therapy', 'wound care', 'administering injections', 'drawing blood'] 
+ Total Hours Worked: 29.52
+
+  Day M: Working (Total Hours Worked: 9.47)
+    - Helping Patient_10 with medication in Chesapeake
+    - Helping Patient_21 with medication in Chesapeake
+    - Helping Patient_31 with physical therapy in Chesapeake
+    - Helping Patient_40 with medication in Chesapeake
+    - Helping Patient_53 with medication in Chesapeake
+    - Helping Patient_78 with physical therapy in Chesapeake
+    - Helping Patient_84 with medication in Chesapeake
+    - Helping Patient_85 with wound care in Chesapeake
+    - Helping Patient_86 with medication in Chesapeake
+    - Helping Patient_93 with physical therapy in Chesapeake
+    - Helping Patient_95 with physical therapy in Chesapeake
+    - Helping Patient_96 with wound care in Chesapeake
+
+
+  Day T: Working (Total Hours Worked: 8.45)
+    - Helping Patient_10 with medication in Chesapeake
+    - Helping Patient_21 with medication in Chesapeake
+    - Helping Patient_21 with administering injections in Chesapeake
+    - Helping Patient_31 with physical therapy in Chesapeake
+    - Helping Patient_40 with medication in Chesapeake
+    - Helping Patient_52 with administering injections in Chesapeake
+    - Helping Patient_53 with medication in Chesapeake
+    - Helping Patient_53 with wound care in Chesapeake
+    - Helping Patient_63 with administering injections in Chesapeake
+    - Helping Patient_78 with administering injections in Chesapeake
+    - Helping Patient_84 with medication in Chesapeake
+    - Helping Patient_85 with wound care in Chesapeake
+    - Helping Patient_85 with administering injections in Chesapeake
+    - Helping Patient_86 with medication in Chesapeake
+
+
+  Day W: Working (Total Hours Worked: 8.33)
+    - Helping Patient_8 with wound care in Chesapeake
+    - Helping Patient_21 with medication in Chesapeake
+    - Helping Patient_63 with administering injections in Chesapeake
+    - Helping Patient_78 with physical therapy in Chesapeake
+    - Helping Patient_78 with administering injections in Chesapeake
+    - Helping Patient_84 with drawing blood in Chesapeake
+    - Helping Patient_93 with physical therapy in Chesapeake
+    - Helping Patient_95 with physical therapy in Chesapeake
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 3.27)
+    - Helping Patient_11 with medication in Richmond
+    - Helping Patient_50 with drawing blood in Richmond
+    - Helping Patient_74 with physical therapy in Richmond
+
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_14 
+ Skills: ['medication', 'administering injections', 'wound care', 'physical therapy', 'drawing blood', 'personal hygiene assistance'] 
+ Total Hours Worked: 31.00
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 3.98)
+    - Helping Patient_22 with personal hygiene assistance in Richmond
+    - Helping Patient_34 with administering injections in Richmond
+    - Helping Patient_50 with physical therapy in Richmond
+    - Helping Patient_56 with administering injections in Richmond
+
+
+  Day W: Working (Total Hours Worked: 9.90)
+    - Helping Patient_11 with medication in Richmond
+    - Helping Patient_11 with personal hygiene assistance in Richmond
+    - Helping Patient_22 with medication in Richmond
+    - Helping Patient_22 with personal hygiene assistance in Richmond
+    - Helping Patient_50 with drawing blood in Richmond
+    - Helping Patient_50 with physical therapy in Richmond
+    - Helping Patient_74 with physical therapy in Richmond
+    - Helping Patient_99 with medication in Richmond
+    - Helping Patient_99 with physical therapy in Richmond
+    - Helping Patient_99 with administering injections in Richmond
+
+
+  Day Th: Working (Total Hours Worked: 7.27)
+    - Helping Patient_15 with physical therapy in Lynchburg
+    - Helping Patient_15 with personal hygiene assistance in Lynchburg
+    - Helping Patient_24 with wound care in Lynchburg
+    - Helping Patient_27 with wound care in Lynchburg
+    - Helping Patient_57 with physical therapy in Lynchburg
+    - Helping Patient_57 with wound care in Lynchburg
+    - Helping Patient_100 with administering injections in Lynchburg
+
+
+  Day F: Off
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 9.85)
+    - Helping Patient_3 with medication in Lynchburg
+    - Helping Patient_15 with drawing blood in Lynchburg
+    - Helping Patient_15 with physical therapy in Lynchburg
+    - Helping Patient_27 with drawing blood in Lynchburg
+    - Helping Patient_38 with physical therapy in Lynchburg
+    - Helping Patient_43 with administering injections in Lynchburg
+    - Helping Patient_46 with medication in Lynchburg
+    - Helping Patient_46 with physical therapy in Lynchburg
+    - Helping Patient_57 with personal hygiene assistance in Lynchburg
+
+
+Nurse_15 
+ Skills: ['drawing blood', 'wound care', 'administering injections', 'medication'] 
+ Total Hours Worked: 32.47
+
+  Day M: Working (Total Hours Worked: 9.93)
+    - Helping Patient_3 with medication in Lynchburg
+    - Helping Patient_3 with drawing blood in Lynchburg
+    - Helping Patient_15 with drawing blood in Lynchburg
+    - Helping Patient_16 with medication in Lynchburg
+    - Helping Patient_27 with medication in Lynchburg
+    - Helping Patient_27 with drawing blood in Lynchburg
+    - Helping Patient_33 with medication in Lynchburg
+    - Helping Patient_33 with drawing blood in Lynchburg
+    - Helping Patient_33 with wound care in Lynchburg
+    - Helping Patient_46 with medication in Lynchburg
+    - Helping Patient_57 with wound care in Lynchburg
+    - Helping Patient_100 with administering injections in Lynchburg
+
+
+  Day T: Working (Total Hours Worked: 9.57)
+    - Helping Patient_3 with drawing blood in Lynchburg
+    - Helping Patient_15 with drawing blood in Lynchburg
+    - Helping Patient_16 with drawing blood in Lynchburg
+    - Helping Patient_27 with drawing blood in Lynchburg
+    - Helping Patient_28 with drawing blood in Lynchburg
+    - Helping Patient_33 with drawing blood in Lynchburg
+    - Helping Patient_43 with administering injections in Lynchburg
+
+
+  Day W: Off
+
+  Day Th: Off
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 5.98)
+    - Helping Patient_45 with wound care in Roanoke
+    - Helping Patient_55 with wound care in Roanoke
+    - Helping Patient_61 with administering injections in Roanoke
+    - Helping Patient_71 with drawing blood in Roanoke
+    - Helping Patient_72 with administering injections in Roanoke
+    - Helping Patient_80 with wound care in Roanoke
+    - Helping Patient_80 with administering injections in Roanoke
+
+
+  Day Su: Working (Total Hours Worked: 6.98)
+    - Helping Patient_45 with wound care in Roanoke
+    - Helping Patient_55 with wound care in Roanoke
+    - Helping Patient_61 with administering injections in Roanoke
+    - Helping Patient_65 with medication in Roanoke
+    - Helping Patient_71 with medication in Roanoke
+    - Helping Patient_71 with drawing blood in Roanoke
+    - Helping Patient_72 with administering injections in Roanoke
+    - Helping Patient_80 with wound care in Roanoke
+    - Helping Patient_80 with administering injections in Roanoke
+    - Helping Patient_87 with medication in Roanoke
+
+
+Nurse_16 
+ Skills: ['medication', 'personal hygiene assistance'] 
+ Total Hours Worked: 16.40
+
+  Day M: Working (Total Hours Worked: 3.60)
+    - Helping Patient_45 with personal hygiene assistance in Roanoke
+    - Helping Patient_55 with personal hygiene assistance in Roanoke
+    - Helping Patient_80 with personal hygiene assistance in Roanoke
+
+
+  Day T: Off
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 4.60)
+    - Helping Patient_45 with personal hygiene assistance in Roanoke
+    - Helping Patient_55 with personal hygiene assistance in Roanoke
+    - Helping Patient_65 with medication in Roanoke
+    - Helping Patient_71 with medication in Roanoke
+    - Helping Patient_80 with personal hygiene assistance in Roanoke
+    - Helping Patient_87 with medication in Roanoke
+
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 4.60)
+    - Helping Patient_45 with personal hygiene assistance in Roanoke
+    - Helping Patient_55 with personal hygiene assistance in Roanoke
+    - Helping Patient_65 with medication in Roanoke
+    - Helping Patient_71 with medication in Roanoke
+    - Helping Patient_80 with personal hygiene assistance in Roanoke
+    - Helping Patient_87 with medication in Roanoke
+
+
+  Day Su: Working (Total Hours Worked: 3.60)
+    - Helping Patient_45 with personal hygiene assistance in Roanoke
+    - Helping Patient_55 with personal hygiene assistance in Roanoke
+    - Helping Patient_80 with personal hygiene assistance in Roanoke
+
+
+Nurse_17 
+ Skills: ['physical therapy', 'medication', 'personal hygiene assistance', 'drawing blood', 'administering injections'] 
+ Total Hours Worked: 17.30
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 8.45)
+    - Helping Patient_6 with physical therapy in Arlington
+    - Helping Patient_19 with medication in Arlington
+    - Helping Patient_19 with administering injections in Arlington
+    - Helping Patient_51 with drawing blood in Arlington
+    - Helping Patient_73 with administering injections in Arlington
+    - Helping Patient_82 with personal hygiene assistance in Arlington
+    - Helping Patient_89 with physical therapy in Arlington
+    - Helping Patient_89 with personal hygiene assistance in Arlington
+
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 2.15)
+    - Helping Patient_23 with drawing blood in Alexandria
+    - Helping Patient_83 with administering injections in Alexandria
+
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 2.15)
+    - Helping Patient_23 with drawing blood in Alexandria
+    - Helping Patient_83 with administering injections in Alexandria
+
+
+  Day Su: Working (Total Hours Worked: 4.55)
+    - Helping Patient_17 with personal hygiene assistance in Alexandria
+    - Helping Patient_23 with medication in Alexandria
+    - Helping Patient_23 with drawing blood in Alexandria
+    - Helping Patient_29 with personal hygiene assistance in Alexandria
+    - Helping Patient_54 with medication in Alexandria
+
+
+Nurse_18 
+ Skills: ['physical therapy'] 
+ Total Hours Worked: 29.00
+
+  Day M: Working (Total Hours Worked: 7.25)
+    - Helping Patient_4 with physical therapy in Roanoke
+    - Helping Patient_45 with physical therapy in Roanoke
+    - Helping Patient_55 with physical therapy in Roanoke
+    - Helping Patient_71 with physical therapy in Roanoke
+    - Helping Patient_72 with physical therapy in Roanoke
+
+
+  Day T: Working (Total Hours Worked: 7.25)
+    - Helping Patient_4 with physical therapy in Roanoke
+    - Helping Patient_45 with physical therapy in Roanoke
+    - Helping Patient_55 with physical therapy in Roanoke
+    - Helping Patient_71 with physical therapy in Roanoke
+    - Helping Patient_72 with physical therapy in Roanoke
+
+
+  Day W: Working (Total Hours Worked: 7.25)
+    - Helping Patient_4 with physical therapy in Roanoke
+    - Helping Patient_45 with physical therapy in Roanoke
+    - Helping Patient_55 with physical therapy in Roanoke
+    - Helping Patient_71 with physical therapy in Roanoke
+    - Helping Patient_72 with physical therapy in Roanoke
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 7.25)
+    - Helping Patient_4 with physical therapy in Roanoke
+    - Helping Patient_45 with physical therapy in Roanoke
+    - Helping Patient_55 with physical therapy in Roanoke
+    - Helping Patient_71 with physical therapy in Roanoke
+    - Helping Patient_72 with physical therapy in Roanoke
+
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_19 
+ Skills: ['medication', 'personal hygiene assistance', 'wound care', 'administering injections', 'physical therapy'] 
+ Total Hours Worked: 25.10
+
+  Day M: Working (Total Hours Worked: 9.28)
+    - Helping Patient_30 with physical therapy in Norfolk
+    - Helping Patient_30 with personal hygiene assistance in Norfolk
+    - Helping Patient_32 with medication in Norfolk
+    - Helping Patient_32 with personal hygiene assistance in Norfolk
+    - Helping Patient_35 with medication in Norfolk
+    - Helping Patient_35 with physical therapy in Norfolk
+    - Helping Patient_49 with personal hygiene assistance in Norfolk
+    - Helping Patient_60 with physical therapy in Norfolk
+    - Helping Patient_60 with administering injections in Norfolk
+
+
+  Day T: Working (Total Hours Worked: 6.88)
+    - Helping Patient_30 with physical therapy in Norfolk
+    - Helping Patient_32 with medication in Norfolk
+    - Helping Patient_35 with medication in Norfolk
+    - Helping Patient_35 with physical therapy in Norfolk
+    - Helping Patient_49 with personal hygiene assistance in Norfolk
+    - Helping Patient_60 with physical therapy in Norfolk
+    - Helping Patient_60 with administering injections in Norfolk
+
+
+  Day W: Off
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 4.57)
+    - Helping Patient_23 with medication in Alexandria
+    - Helping Patient_29 with personal hygiene assistance in Alexandria
+    - Helping Patient_54 with medication in Alexandria
+    - Helping Patient_54 with personal hygiene assistance in Alexandria
+    - Helping Patient_62 with wound care in Alexandria
+    - Helping Patient_83 with administering injections in Alexandria
+
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 4.37)
+    - Helping Patient_23 with wound care in Alexandria
+    - Helping Patient_54 with wound care in Alexandria
+    - Helping Patient_54 with personal hygiene assistance in Alexandria
+    - Helping Patient_62 with wound care in Alexandria
+    - Helping Patient_83 with administering injections in Alexandria
+
+
+Nurse_20 
+ Skills: ['administering injections', 'personal hygiene assistance', 'medication', 'wound care', 'physical therapy'] 
+ Total Hours Worked: 25.62
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 7.92)
+    - Helping Patient_15 with physical therapy in Lynchburg
+    - Helping Patient_16 with physical therapy in Lynchburg
+    - Helping Patient_24 with physical therapy in Lynchburg
+    - Helping Patient_38 with physical therapy in Lynchburg
+    - Helping Patient_46 with physical therapy in Lynchburg
+    - Helping Patient_100 with administering injections in Lynchburg
+
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 9.25)
+    - Helping Patient_4 with physical therapy in Roanoke
+    - Helping Patient_45 with physical therapy in Roanoke
+    - Helping Patient_55 with physical therapy in Roanoke
+    - Helping Patient_61 with administering injections in Roanoke
+    - Helping Patient_71 with physical therapy in Roanoke
+    - Helping Patient_72 with physical therapy in Roanoke
+    - Helping Patient_72 with administering injections in Roanoke
+    - Helping Patient_80 with administering injections in Roanoke
+
+
+  Day F: Working (Total Hours Worked: 1.20)
+    - Helping Patient_45 with personal hygiene assistance in Roanoke
+
+
+  Day S: Working (Total Hours Worked: 7.25)
+    - Helping Patient_4 with physical therapy in Roanoke
+    - Helping Patient_45 with physical therapy in Roanoke
+    - Helping Patient_55 with physical therapy in Roanoke
+    - Helping Patient_71 with physical therapy in Roanoke
+    - Helping Patient_72 with physical therapy in Roanoke
+
+
+  Day Su: Off
+
+Nurse_21 
+ Skills: ['drawing blood', 'personal hygiene assistance', 'administering injections', 'medication', 'physical therapy'] 
+ Total Hours Worked: 22.43
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 4.23)
+    - Helping Patient_44 with medication in Arlington
+    - Helping Patient_70 with medication in Arlington
+    - Helping Patient_73 with medication in Arlington
+    - Helping Patient_79 with medication in Arlington
+    - Helping Patient_79 with physical therapy in Arlington
+    - Helping Patient_81 with physical therapy in Arlington
+
+
+  Day W: Working (Total Hours Worked: 6.72)
+    - Helping Patient_6 with physical therapy in Arlington
+    - Helping Patient_19 with medication in Arlington
+    - Helping Patient_44 with medication in Arlington
+    - Helping Patient_51 with drawing blood in Arlington
+    - Helping Patient_70 with medication in Arlington
+    - Helping Patient_73 with medication in Arlington
+    - Helping Patient_73 with administering injections in Arlington
+    - Helping Patient_79 with medication in Arlington
+    - Helping Patient_79 with physical therapy in Arlington
+
+
+  Day Th: Working (Total Hours Worked: 7.00)
+    - Helping Patient_6 with physical therapy in Arlington
+    - Helping Patient_79 with physical therapy in Arlington
+    - Helping Patient_81 with physical therapy in Arlington
+    - Helping Patient_82 with personal hygiene assistance in Arlington
+    - Helping Patient_89 with physical therapy in Arlington
+
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 4.48)
+    - Helping Patient_19 with medication in Arlington
+    - Helping Patient_19 with administering injections in Arlington
+    - Helping Patient_44 with medication in Arlington
+    - Helping Patient_51 with drawing blood in Arlington
+    - Helping Patient_70 with medication in Arlington
+    - Helping Patient_73 with medication in Arlington
+    - Helping Patient_73 with administering injections in Arlington
+    - Helping Patient_79 with medication in Arlington
+
+
+  Day Su: Off
+
+Nurse_22 
+ Skills: ['personal hygiene assistance', 'administering injections', 'drawing blood', 'physical therapy'] 
+ Total Hours Worked: 29.38
+
+  Day M: Working (Total Hours Worked: 8.62)
+    - Helping Patient_6 with physical therapy in Arlington
+    - Helping Patient_19 with administering injections in Arlington
+    - Helping Patient_51 with drawing blood in Arlington
+    - Helping Patient_73 with administering injections in Arlington
+    - Helping Patient_79 with physical therapy in Arlington
+    - Helping Patient_81 with physical therapy in Arlington
+    - Helping Patient_89 with physical therapy in Arlington
+
+
+  Day T: Off
+
+  Day W: Off
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 6.25)
+    - Helping Patient_30 with physical therapy in Norfolk
+    - Helping Patient_49 with drawing blood in Norfolk
+    - Helping Patient_49 with personal hygiene assistance in Norfolk
+    - Helping Patient_60 with physical therapy in Norfolk
+    - Helping Patient_60 with administering injections in Norfolk
+
+
+  Day S: Working (Total Hours Worked: 8.58)
+    - Helping Patient_30 with personal hygiene assistance in Norfolk
+    - Helping Patient_35 with drawing blood in Norfolk
+    - Helping Patient_35 with physical therapy in Norfolk
+    - Helping Patient_49 with drawing blood in Norfolk
+    - Helping Patient_60 with drawing blood in Norfolk
+    - Helping Patient_64 with drawing blood in Norfolk
+
+
+  Day Su: Working (Total Hours Worked: 5.93)
+    - Helping Patient_35 with drawing blood in Norfolk
+    - Helping Patient_49 with drawing blood in Norfolk
+    - Helping Patient_60 with drawing blood in Norfolk
+    - Helping Patient_64 with drawing blood in Norfolk
+
+
+Nurse_23 
+ Skills: ['personal hygiene assistance'] 
+ Total Hours Worked: 19.20
+
+  Day M: Working (Total Hours Worked: 4.80)
+    - Helping Patient_15 with personal hygiene assistance in Lynchburg
+    - Helping Patient_24 with personal hygiene assistance in Lynchburg
+    - Helping Patient_46 with personal hygiene assistance in Lynchburg
+    - Helping Patient_57 with personal hygiene assistance in Lynchburg
+
+
+  Day T: Working (Total Hours Worked: 4.80)
+    - Helping Patient_15 with personal hygiene assistance in Lynchburg
+    - Helping Patient_24 with personal hygiene assistance in Lynchburg
+    - Helping Patient_46 with personal hygiene assistance in Lynchburg
+    - Helping Patient_57 with personal hygiene assistance in Lynchburg
+
+
+  Day W: Working (Total Hours Worked: 4.80)
+    - Helping Patient_15 with personal hygiene assistance in Lynchburg
+    - Helping Patient_24 with personal hygiene assistance in Lynchburg
+    - Helping Patient_46 with personal hygiene assistance in Lynchburg
+    - Helping Patient_57 with personal hygiene assistance in Lynchburg
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 4.80)
+    - Helping Patient_15 with personal hygiene assistance in Lynchburg
+    - Helping Patient_24 with personal hygiene assistance in Lynchburg
+    - Helping Patient_46 with personal hygiene assistance in Lynchburg
+    - Helping Patient_57 with personal hygiene assistance in Lynchburg
+
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_24 
+ Skills: ['wound care'] 
+ Total Hours Worked: 22.50
+
+  Day M: Working (Total Hours Worked: 6.67)
+    - Helping Patient_7 with wound care in Williamsburg
+    - Helping Patient_14 with wound care in Williamsburg
+    - Helping Patient_20 with wound care in Williamsburg
+    - Helping Patient_41 with wound care in Williamsburg
+    - Helping Patient_67 with wound care in Williamsburg
+    - Helping Patient_77 with wound care in Williamsburg
+    - Helping Patient_94 with wound care in Williamsburg
+    - Helping Patient_98 with wound care in Williamsburg
+
+
+  Day T: Working (Total Hours Worked: 6.67)
+    - Helping Patient_7 with wound care in Williamsburg
+    - Helping Patient_14 with wound care in Williamsburg
+    - Helping Patient_20 with wound care in Williamsburg
+    - Helping Patient_41 with wound care in Williamsburg
+    - Helping Patient_67 with wound care in Williamsburg
+    - Helping Patient_77 with wound care in Williamsburg
+    - Helping Patient_94 with wound care in Williamsburg
+    - Helping Patient_98 with wound care in Williamsburg
+
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 6.67)
+    - Helping Patient_7 with wound care in Williamsburg
+    - Helping Patient_14 with wound care in Williamsburg
+    - Helping Patient_20 with wound care in Williamsburg
+    - Helping Patient_41 with wound care in Williamsburg
+    - Helping Patient_67 with wound care in Williamsburg
+    - Helping Patient_77 with wound care in Williamsburg
+    - Helping Patient_94 with wound care in Williamsburg
+    - Helping Patient_98 with wound care in Williamsburg
+
+
+  Day F: Working (Total Hours Worked: 2.50)
+    - Helping Patient_25 with wound care in Virginia Beach
+    - Helping Patient_68 with wound care in Virginia Beach
+    - Helping Patient_90 with wound care in Virginia Beach
+
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_25 
+ Skills: ['drawing blood', 'personal hygiene assistance', 'physical therapy'] 
+ Total Hours Worked: 19.18
+
+  Day M: Off
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 1.48)
+    - Helping Patient_23 with drawing blood in Alexandria
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 1.48)
+    - Helping Patient_23 with drawing blood in Alexandria
+
+
+  Day S: Working (Total Hours Worked: 9.15)
+    - Helping Patient_15 with personal hygiene assistance in Lynchburg
+    - Helping Patient_16 with physical therapy in Lynchburg
+    - Helping Patient_24 with personal hygiene assistance in Lynchburg
+    - Helping Patient_38 with physical therapy in Lynchburg
+    - Helping Patient_46 with personal hygiene assistance in Lynchburg
+    - Helping Patient_57 with physical therapy in Lynchburg
+    - Helping Patient_57 with personal hygiene assistance in Lynchburg
+
+
+  Day Su: Working (Total Hours Worked: 7.07)
+    - Helping Patient_2 with physical therapy in Lynchburg
+    - Helping Patient_3 with drawing blood in Lynchburg
+    - Helping Patient_24 with personal hygiene assistance in Lynchburg
+    - Helping Patient_28 with drawing blood in Lynchburg
+    - Helping Patient_57 with physical therapy in Lynchburg
+
+
+Nurse_26 
+ Skills: ['medication', 'wound care', 'drawing blood'] 
+ Total Hours Worked: 31.70
+
+  Day M: Working (Total Hours Worked: 6.12)
+    - Helping Patient_7 with drawing blood in Williamsburg
+    - Helping Patient_20 with medication in Williamsburg
+    - Helping Patient_39 with medication in Williamsburg
+    - Helping Patient_67 with drawing blood in Williamsburg
+    - Helping Patient_75 with medication in Williamsburg
+    - Helping Patient_77 with medication in Williamsburg
+    - Helping Patient_94 with medication in Williamsburg
+    - Helping Patient_98 with drawing blood in Williamsburg
+
+
+  Day T: Off
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 9.92)
+    - Helping Patient_5 with drawing blood in Chesapeake
+    - Helping Patient_8 with wound care in Chesapeake
+    - Helping Patient_21 with drawing blood in Chesapeake
+    - Helping Patient_52 with drawing blood in Chesapeake
+    - Helping Patient_84 with drawing blood in Chesapeake
+    - Helping Patient_86 with drawing blood in Chesapeake
+    - Helping Patient_96 with wound care in Chesapeake
+    - Helping Patient_97 with wound care in Chesapeake
+
+
+  Day F: Working (Total Hours Worked: 8.25)
+    - Helping Patient_5 with drawing blood in Chesapeake
+    - Helping Patient_8 with wound care in Chesapeake
+    - Helping Patient_21 with drawing blood in Chesapeake
+    - Helping Patient_52 with drawing blood in Chesapeake
+    - Helping Patient_84 with drawing blood in Chesapeake
+    - Helping Patient_86 with drawing blood in Chesapeake
+
+
+  Day S: Working (Total Hours Worked: 7.42)
+    - Helping Patient_5 with drawing blood in Chesapeake
+    - Helping Patient_21 with drawing blood in Chesapeake
+    - Helping Patient_52 with drawing blood in Chesapeake
+    - Helping Patient_84 with drawing blood in Chesapeake
+    - Helping Patient_86 with drawing blood in Chesapeake
+
+
+  Day Su: Off
+
+Nurse_27 
+ Skills: ['administering injections', 'personal hygiene assistance', 'physical therapy', 'drawing blood'] 
+ Total Hours Worked: 29.82
+
+  Day M: Working (Total Hours Worked: 8.28)
+    - Helping Patient_12 with administering injections in Virginia Beach
+    - Helping Patient_26 with drawing blood in Virginia Beach
+    - Helping Patient_26 with administering injections in Virginia Beach
+    - Helping Patient_48 with administering injections in Virginia Beach
+    - Helping Patient_59 with drawing blood in Virginia Beach
+    - Helping Patient_59 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_68 with physical therapy in Virginia Beach
+    - Helping Patient_92 with administering injections in Virginia Beach
+
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 5.97)
+    - Helping Patient_19 with administering injections in Arlington
+    - Helping Patient_81 with physical therapy in Arlington
+    - Helping Patient_82 with personal hygiene assistance in Arlington
+    - Helping Patient_89 with physical therapy in Arlington
+    - Helping Patient_89 with personal hygiene assistance in Arlington
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 9.57)
+    - Helping Patient_6 with physical therapy in Arlington
+    - Helping Patient_19 with administering injections in Arlington
+    - Helping Patient_51 with drawing blood in Arlington
+    - Helping Patient_73 with administering injections in Arlington
+    - Helping Patient_81 with physical therapy in Arlington
+    - Helping Patient_82 with personal hygiene assistance in Arlington
+    - Helping Patient_89 with physical therapy in Arlington
+    - Helping Patient_89 with personal hygiene assistance in Arlington
+
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 6.00)
+    - Helping Patient_51 with drawing blood in Arlington
+    - Helping Patient_73 with administering injections in Arlington
+    - Helping Patient_79 with physical therapy in Arlington
+    - Helping Patient_82 with personal hygiene assistance in Arlington
+    - Helping Patient_89 with personal hygiene assistance in Arlington
+
+
+Nurse_28 
+ Skills: ['wound care', 'physical therapy', 'administering injections', 'drawing blood', 'medication', 'personal hygiene assistance'] 
+ Total Hours Worked: 36.58
+
+  Day M: Off
+
+  Day T: Off
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 9.23)
+    - Helping Patient_11 with medication in Richmond
+    - Helping Patient_11 with personal hygiene assistance in Richmond
+    - Helping Patient_22 with medication in Richmond
+    - Helping Patient_22 with personal hygiene assistance in Richmond
+    - Helping Patient_50 with drawing blood in Richmond
+    - Helping Patient_50 with physical therapy in Richmond
+    - Helping Patient_74 with physical therapy in Richmond
+    - Helping Patient_99 with medication in Richmond
+    - Helping Patient_99 with physical therapy in Richmond
+
+
+  Day F: Working (Total Hours Worked: 7.97)
+    - Helping Patient_11 with personal hygiene assistance in Richmond
+    - Helping Patient_22 with medication in Richmond
+    - Helping Patient_22 with personal hygiene assistance in Richmond
+    - Helping Patient_34 with administering injections in Richmond
+    - Helping Patient_50 with physical therapy in Richmond
+    - Helping Patient_56 with administering injections in Richmond
+    - Helping Patient_99 with medication in Richmond
+    - Helping Patient_99 with physical therapy in Richmond
+    - Helping Patient_99 with administering injections in Richmond
+
+
+  Day S: Working (Total Hours Worked: 9.45)
+    - Helping Patient_11 with medication in Richmond
+    - Helping Patient_11 with personal hygiene assistance in Richmond
+    - Helping Patient_22 with medication in Richmond
+    - Helping Patient_22 with personal hygiene assistance in Richmond
+    - Helping Patient_34 with administering injections in Richmond
+    - Helping Patient_50 with drawing blood in Richmond
+    - Helping Patient_50 with physical therapy in Richmond
+    - Helping Patient_56 with administering injections in Richmond
+    - Helping Patient_74 with physical therapy in Richmond
+    - Helping Patient_99 with administering injections in Richmond
+
+
+  Day Su: Working (Total Hours Worked: 9.93)
+    - Helping Patient_15 with personal hygiene assistance in Lynchburg
+    - Helping Patient_16 with medication in Lynchburg
+    - Helping Patient_16 with drawing blood in Lynchburg
+    - Helping Patient_16 with physical therapy in Lynchburg
+    - Helping Patient_24 with physical therapy in Lynchburg
+    - Helping Patient_27 with medication in Lynchburg
+    - Helping Patient_33 with medication in Lynchburg
+    - Helping Patient_33 with drawing blood in Lynchburg
+    - Helping Patient_46 with personal hygiene assistance in Lynchburg
+    - Helping Patient_100 with administering injections in Lynchburg
+
+
+Nurse_29 
+ Skills: ['wound care', 'physical therapy', 'personal hygiene assistance', 'administering injections', 'medication', 'drawing blood'] 
+ Total Hours Worked: 31.72
+
+  Day M: Working (Total Hours Worked: 8.45)
+    - Helping Patient_11 with medication in Richmond
+    - Helping Patient_11 with personal hygiene assistance in Richmond
+    - Helping Patient_22 with medication in Richmond
+    - Helping Patient_22 with personal hygiene assistance in Richmond
+    - Helping Patient_34 with administering injections in Richmond
+    - Helping Patient_50 with drawing blood in Richmond
+    - Helping Patient_50 with physical therapy in Richmond
+    - Helping Patient_99 with medication in Richmond
+    - Helping Patient_99 with physical therapy in Richmond
+
+
+  Day T: Working (Total Hours Worked: 7.25)
+    - Helping Patient_11 with medication in Richmond
+    - Helping Patient_11 with personal hygiene assistance in Richmond
+    - Helping Patient_22 with medication in Richmond
+    - Helping Patient_50 with drawing blood in Richmond
+    - Helping Patient_74 with physical therapy in Richmond
+    - Helping Patient_99 with medication in Richmond
+    - Helping Patient_99 with physical therapy in Richmond
+    - Helping Patient_99 with administering injections in Richmond
+
+
+  Day W: Off
+
+  Day Th: Off
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 9.53)
+    - Helping Patient_7 with drawing blood in Williamsburg
+    - Helping Patient_7 with wound care in Williamsburg
+    - Helping Patient_20 with medication in Williamsburg
+    - Helping Patient_39 with medication in Williamsburg
+    - Helping Patient_41 with wound care in Williamsburg
+    - Helping Patient_58 with drawing blood in Williamsburg
+    - Helping Patient_67 with personal hygiene assistance in Williamsburg
+    - Helping Patient_75 with medication in Williamsburg
+    - Helping Patient_75 with personal hygiene assistance in Williamsburg
+    - Helping Patient_77 with medication in Williamsburg
+    - Helping Patient_94 with medication in Williamsburg
+    - Helping Patient_98 with wound care in Williamsburg
+
+
+  Day Su: Working (Total Hours Worked: 6.48)
+    - Helping Patient_20 with wound care in Williamsburg
+    - Helping Patient_67 with drawing blood in Williamsburg
+    - Helping Patient_75 with drawing blood in Williamsburg
+    - Helping Patient_75 with personal hygiene assistance in Williamsburg
+    - Helping Patient_98 with drawing blood in Williamsburg
+
+
+Nurse_30 
+ Skills: ['physical therapy'] 
+ Total Hours Worked: 21.75
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 4.35)
+    - Helping Patient_78 with physical therapy in Chesapeake
+    - Helping Patient_93 with physical therapy in Chesapeake
+    - Helping Patient_95 with physical therapy in Chesapeake
+
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 5.80)
+    - Helping Patient_9 with physical therapy in Williamsburg
+    - Helping Patient_13 with physical therapy in Williamsburg
+    - Helping Patient_41 with physical therapy in Williamsburg
+    - Helping Patient_66 with physical therapy in Williamsburg
+
+
+  Day F: Working (Total Hours Worked: 5.80)
+    - Helping Patient_9 with physical therapy in Williamsburg
+    - Helping Patient_13 with physical therapy in Williamsburg
+    - Helping Patient_41 with physical therapy in Williamsburg
+    - Helping Patient_66 with physical therapy in Williamsburg
+
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 5.80)
+    - Helping Patient_9 with physical therapy in Williamsburg
+    - Helping Patient_13 with physical therapy in Williamsburg
+    - Helping Patient_41 with physical therapy in Williamsburg
+    - Helping Patient_66 with physical therapy in Williamsburg
+
+
+Nurse_31 
+ Skills: ['physical therapy', 'personal hygiene assistance', 'administering injections'] 
+ Total Hours Worked: 31.82
+
+  Day M: Off
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 8.62)
+    - Helping Patient_30 with physical therapy in Norfolk
+    - Helping Patient_30 with personal hygiene assistance in Norfolk
+    - Helping Patient_32 with personal hygiene assistance in Norfolk
+    - Helping Patient_35 with physical therapy in Norfolk
+    - Helping Patient_49 with personal hygiene assistance in Norfolk
+    - Helping Patient_60 with physical therapy in Norfolk
+    - Helping Patient_60 with administering injections in Norfolk
+
+
+  Day Th: Working (Total Hours Worked: 8.62)
+    - Helping Patient_30 with physical therapy in Norfolk
+    - Helping Patient_30 with personal hygiene assistance in Norfolk
+    - Helping Patient_32 with personal hygiene assistance in Norfolk
+    - Helping Patient_35 with physical therapy in Norfolk
+    - Helping Patient_49 with personal hygiene assistance in Norfolk
+    - Helping Patient_60 with physical therapy in Norfolk
+    - Helping Patient_60 with administering injections in Norfolk
+
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 5.97)
+    - Helping Patient_30 with physical therapy in Norfolk
+    - Helping Patient_32 with personal hygiene assistance in Norfolk
+    - Helping Patient_49 with personal hygiene assistance in Norfolk
+    - Helping Patient_60 with physical therapy in Norfolk
+    - Helping Patient_60 with administering injections in Norfolk
+
+
+  Day Su: Working (Total Hours Worked: 8.62)
+    - Helping Patient_30 with physical therapy in Norfolk
+    - Helping Patient_30 with personal hygiene assistance in Norfolk
+    - Helping Patient_32 with personal hygiene assistance in Norfolk
+    - Helping Patient_35 with physical therapy in Norfolk
+    - Helping Patient_49 with personal hygiene assistance in Norfolk
+    - Helping Patient_60 with physical therapy in Norfolk
+    - Helping Patient_60 with administering injections in Norfolk
+
+
+Nurse_32 
+ Skills: ['drawing blood', 'wound care', 'medication', 'physical therapy', 'personal hygiene assistance', 'administering injections'] 
+ Total Hours Worked: 31.55
+
+  Day M: Working (Total Hours Worked: 3.48)
+    - Helping Patient_61 with administering injections in Roanoke
+    - Helping Patient_65 with medication in Roanoke
+    - Helping Patient_71 with drawing blood in Roanoke
+    - Helping Patient_72 with administering injections in Roanoke
+    - Helping Patient_87 with medication in Roanoke
+
+
+  Day T: Working (Total Hours Worked: 9.58)
+    - Helping Patient_45 with wound care in Roanoke
+    - Helping Patient_45 with personal hygiene assistance in Roanoke
+    - Helping Patient_55 with wound care in Roanoke
+    - Helping Patient_55 with personal hygiene assistance in Roanoke
+    - Helping Patient_61 with administering injections in Roanoke
+    - Helping Patient_71 with drawing blood in Roanoke
+    - Helping Patient_72 with administering injections in Roanoke
+    - Helping Patient_80 with wound care in Roanoke
+    - Helping Patient_80 with administering injections in Roanoke
+    - Helping Patient_80 with personal hygiene assistance in Roanoke
+
+
+  Day W: Working (Total Hours Worked: 9.10)
+    - Helping Patient_45 with wound care in Roanoke
+    - Helping Patient_45 with personal hygiene assistance in Roanoke
+    - Helping Patient_55 with wound care in Roanoke
+    - Helping Patient_55 with personal hygiene assistance in Roanoke
+    - Helping Patient_61 with administering injections in Roanoke
+    - Helping Patient_65 with medication in Roanoke
+    - Helping Patient_71 with medication in Roanoke
+    - Helping Patient_72 with administering injections in Roanoke
+    - Helping Patient_80 with wound care in Roanoke
+    - Helping Patient_80 with administering injections in Roanoke
+    - Helping Patient_80 with personal hygiene assistance in Roanoke
+    - Helping Patient_87 with medication in Roanoke
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 9.38)
+    - Helping Patient_45 with wound care in Roanoke
+    - Helping Patient_55 with wound care in Roanoke
+    - Helping Patient_55 with personal hygiene assistance in Roanoke
+    - Helping Patient_61 with administering injections in Roanoke
+    - Helping Patient_65 with medication in Roanoke
+    - Helping Patient_71 with medication in Roanoke
+    - Helping Patient_71 with drawing blood in Roanoke
+    - Helping Patient_72 with administering injections in Roanoke
+    - Helping Patient_80 with wound care in Roanoke
+    - Helping Patient_80 with administering injections in Roanoke
+    - Helping Patient_80 with personal hygiene assistance in Roanoke
+    - Helping Patient_87 with medication in Roanoke
+
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_33 
+ Skills: ['wound care', 'administering injections', 'physical therapy', 'drawing blood', 'personal hygiene assistance'] 
+ Total Hours Worked: 19.93
+
+  Day M: Working (Total Hours Worked: 2.78)
+    - Helping Patient_56 with administering injections in Richmond
+    - Helping Patient_74 with physical therapy in Richmond
+    - Helping Patient_99 with administering injections in Richmond
+
+
+  Day T: Off
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 7.35)
+    - Helping Patient_19 with wound care in Arlington
+    - Helping Patient_19 with administering injections in Arlington
+    - Helping Patient_51 with drawing blood in Arlington
+    - Helping Patient_70 with wound care in Arlington
+    - Helping Patient_73 with administering injections in Arlington
+    - Helping Patient_79 with wound care in Arlington
+    - Helping Patient_82 with wound care in Arlington
+    - Helping Patient_89 with personal hygiene assistance in Arlington
+
+
+  Day F: Working (Total Hours Worked: 4.78)
+    - Helping Patient_19 with wound care in Arlington
+    - Helping Patient_70 with wound care in Arlington
+    - Helping Patient_79 with physical therapy in Arlington
+    - Helping Patient_79 with wound care in Arlington
+    - Helping Patient_82 with wound care in Arlington
+
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 5.02)
+    - Helping Patient_6 with physical therapy in Arlington
+    - Helping Patient_19 with administering injections in Arlington
+    - Helping Patient_81 with physical therapy in Arlington
+    - Helping Patient_89 with physical therapy in Arlington
+
+
+Nurse_34 
+ Skills: ['wound care', 'medication'] 
+ Total Hours Worked: 24.17
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 6.67)
+    - Helping Patient_3 with medication in Lynchburg
+    - Helping Patient_16 with medication in Lynchburg
+    - Helping Patient_24 with wound care in Lynchburg
+    - Helping Patient_27 with medication in Lynchburg
+    - Helping Patient_27 with wound care in Lynchburg
+    - Helping Patient_28 with wound care in Lynchburg
+    - Helping Patient_33 with medication in Lynchburg
+    - Helping Patient_33 with wound care in Lynchburg
+    - Helping Patient_46 with medication in Lynchburg
+    - Helping Patient_47 with wound care in Lynchburg
+    - Helping Patient_57 with wound care in Lynchburg
+
+
+  Day W: Working (Total Hours Worked: 6.67)
+    - Helping Patient_3 with medication in Lynchburg
+    - Helping Patient_16 with medication in Lynchburg
+    - Helping Patient_24 with wound care in Lynchburg
+    - Helping Patient_27 with medication in Lynchburg
+    - Helping Patient_27 with wound care in Lynchburg
+    - Helping Patient_28 with wound care in Lynchburg
+    - Helping Patient_33 with medication in Lynchburg
+    - Helping Patient_33 with wound care in Lynchburg
+    - Helping Patient_46 with medication in Lynchburg
+    - Helping Patient_47 with wound care in Lynchburg
+    - Helping Patient_57 with wound care in Lynchburg
+
+
+  Day Th: Off
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 3.33)
+    - Helping Patient_14 with wound care in Williamsburg
+    - Helping Patient_20 with wound care in Williamsburg
+    - Helping Patient_77 with wound care in Williamsburg
+    - Helping Patient_94 with wound care in Williamsburg
+
+
+  Day Su: Working (Total Hours Worked: 7.50)
+    - Helping Patient_7 with wound care in Williamsburg
+    - Helping Patient_14 with wound care in Williamsburg
+    - Helping Patient_20 with medication in Williamsburg
+    - Helping Patient_39 with medication in Williamsburg
+    - Helping Patient_41 with wound care in Williamsburg
+    - Helping Patient_67 with wound care in Williamsburg
+    - Helping Patient_75 with medication in Williamsburg
+    - Helping Patient_77 with medication in Williamsburg
+    - Helping Patient_77 with wound care in Williamsburg
+    - Helping Patient_94 with medication in Williamsburg
+    - Helping Patient_94 with wound care in Williamsburg
+    - Helping Patient_98 with wound care in Williamsburg
+
+
+Nurse_35 
+ Skills: ['administering injections', 'medication'] 
+ Total Hours Worked: 9.33
+
+  Day M: Working (Total Hours Worked: 3.33)
+    - Helping Patient_21 with administering injections in Chesapeake
+    - Helping Patient_52 with administering injections in Chesapeake
+    - Helping Patient_63 with administering injections in Chesapeake
+    - Helping Patient_78 with administering injections in Chesapeake
+    - Helping Patient_85 with administering injections in Chesapeake
+
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 1.33)
+    - Helping Patient_34 with administering injections in Richmond
+    - Helping Patient_56 with administering injections in Richmond
+
+
+  Day Th: Working (Total Hours Worked: 2.00)
+    - Helping Patient_34 with administering injections in Richmond
+    - Helping Patient_56 with administering injections in Richmond
+    - Helping Patient_99 with administering injections in Richmond
+
+
+  Day F: Off
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 2.67)
+    - Helping Patient_11 with medication in Richmond
+    - Helping Patient_22 with medication in Richmond
+    - Helping Patient_34 with administering injections in Richmond
+    - Helping Patient_56 with administering injections in Richmond
+    - Helping Patient_99 with administering injections in Richmond
+
+
+Nurse_36 
+ Skills: ['administering injections', 'personal hygiene assistance', 'medication', 'physical therapy'] 
+ Total Hours Worked: 34.73
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 8.83)
+    - Helping Patient_9 with personal hygiene assistance in Williamsburg
+    - Helping Patient_14 with personal hygiene assistance in Williamsburg
+    - Helping Patient_20 with medication in Williamsburg
+    - Helping Patient_39 with medication in Williamsburg
+    - Helping Patient_41 with physical therapy in Williamsburg
+    - Helping Patient_41 with administering injections in Williamsburg
+    - Helping Patient_66 with physical therapy in Williamsburg
+    - Helping Patient_67 with personal hygiene assistance in Williamsburg
+    - Helping Patient_75 with medication in Williamsburg
+    - Helping Patient_77 with medication in Williamsburg
+    - Helping Patient_94 with medication in Williamsburg
+
+
+  Day W: Working (Total Hours Worked: 9.63)
+    - Helping Patient_7 with administering injections in Williamsburg
+    - Helping Patient_14 with personal hygiene assistance in Williamsburg
+    - Helping Patient_20 with medication in Williamsburg
+    - Helping Patient_39 with medication in Williamsburg
+    - Helping Patient_39 with administering injections in Williamsburg
+    - Helping Patient_41 with physical therapy in Williamsburg
+    - Helping Patient_66 with physical therapy in Williamsburg
+    - Helping Patient_66 with administering injections in Williamsburg
+    - Helping Patient_67 with personal hygiene assistance in Williamsburg
+    - Helping Patient_75 with medication in Williamsburg
+    - Helping Patient_77 with medication in Williamsburg
+    - Helping Patient_77 with administering injections in Williamsburg
+    - Helping Patient_94 with medication in Williamsburg
+
+
+  Day Th: Working (Total Hours Worked: 9.80)
+    - Helping Patient_7 with administering injections in Williamsburg
+    - Helping Patient_9 with personal hygiene assistance in Williamsburg
+    - Helping Patient_14 with personal hygiene assistance in Williamsburg
+    - Helping Patient_20 with medication in Williamsburg
+    - Helping Patient_39 with medication in Williamsburg
+    - Helping Patient_39 with administering injections in Williamsburg
+    - Helping Patient_41 with administering injections in Williamsburg
+    - Helping Patient_66 with administering injections in Williamsburg
+    - Helping Patient_67 with personal hygiene assistance in Williamsburg
+    - Helping Patient_75 with medication in Williamsburg
+    - Helping Patient_75 with personal hygiene assistance in Williamsburg
+    - Helping Patient_77 with medication in Williamsburg
+    - Helping Patient_77 with administering injections in Williamsburg
+    - Helping Patient_94 with medication in Williamsburg
+
+
+  Day F: Working (Total Hours Worked: 6.47)
+    - Helping Patient_9 with personal hygiene assistance in Williamsburg
+    - Helping Patient_14 with personal hygiene assistance in Williamsburg
+    - Helping Patient_20 with medication in Williamsburg
+    - Helping Patient_39 with medication in Williamsburg
+    - Helping Patient_67 with personal hygiene assistance in Williamsburg
+    - Helping Patient_75 with medication in Williamsburg
+    - Helping Patient_75 with personal hygiene assistance in Williamsburg
+    - Helping Patient_77 with medication in Williamsburg
+    - Helping Patient_94 with medication in Williamsburg
+
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_37 
+ Skills: ['wound care', 'drawing blood'] 
+ Total Hours Worked: 13.43
+
+  Day M: Working (Total Hours Worked: 3.98)
+    - Helping Patient_23 with drawing blood in Alexandria
+    - Helping Patient_23 with wound care in Alexandria
+    - Helping Patient_54 with wound care in Alexandria
+    - Helping Patient_62 with wound care in Alexandria
+
+
+  Day T: Working (Total Hours Worked: 3.98)
+    - Helping Patient_23 with drawing blood in Alexandria
+    - Helping Patient_23 with wound care in Alexandria
+    - Helping Patient_54 with wound care in Alexandria
+    - Helping Patient_62 with wound care in Alexandria
+
+
+  Day W: Working (Total Hours Worked: 1.48)
+    - Helping Patient_71 with drawing blood in Roanoke
+
+
+  Day Th: Working (Total Hours Worked: 3.98)
+    - Helping Patient_45 with wound care in Roanoke
+    - Helping Patient_55 with wound care in Roanoke
+    - Helping Patient_71 with drawing blood in Roanoke
+    - Helping Patient_80 with wound care in Roanoke
+
+
+  Day F: Off
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_38 
+ Skills: ['wound care', 'drawing blood', 'physical therapy', 'administering injections', 'personal hygiene assistance'] 
+ Total Hours Worked: 33.05
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 9.95)
+    - Helping Patient_7 with drawing blood in Williamsburg
+    - Helping Patient_7 with administering injections in Williamsburg
+    - Helping Patient_58 with drawing blood in Williamsburg
+    - Helping Patient_67 with drawing blood in Williamsburg
+    - Helping Patient_75 with drawing blood in Williamsburg
+    - Helping Patient_75 with personal hygiene assistance in Williamsburg
+    - Helping Patient_77 with administering injections in Williamsburg
+    - Helping Patient_98 with drawing blood in Williamsburg
+
+
+  Day W: Working (Total Hours Worked: 9.95)
+    - Helping Patient_9 with physical therapy in Williamsburg
+    - Helping Patient_9 with personal hygiene assistance in Williamsburg
+    - Helping Patient_13 with physical therapy in Williamsburg
+    - Helping Patient_14 with wound care in Williamsburg
+    - Helping Patient_41 with administering injections in Williamsburg
+    - Helping Patient_58 with drawing blood in Williamsburg
+    - Helping Patient_67 with wound care in Williamsburg
+    - Helping Patient_75 with personal hygiene assistance in Williamsburg
+    - Helping Patient_77 with wound care in Williamsburg
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 5.47)
+    - Helping Patient_7 with drawing blood in Williamsburg
+    - Helping Patient_7 with wound care in Williamsburg
+    - Helping Patient_14 with wound care in Williamsburg
+    - Helping Patient_58 with drawing blood in Williamsburg
+    - Helping Patient_98 with wound care in Williamsburg
+
+
+  Day S: Working (Total Hours Worked: 7.68)
+    - Helping Patient_9 with personal hygiene assistance in Williamsburg
+    - Helping Patient_14 with personal hygiene assistance in Williamsburg
+    - Helping Patient_67 with drawing blood in Williamsburg
+    - Helping Patient_67 with wound care in Williamsburg
+    - Helping Patient_75 with drawing blood in Williamsburg
+    - Helping Patient_98 with drawing blood in Williamsburg
+
+
+  Day Su: Off
+
+Nurse_39 
+ Skills: ['wound care', 'drawing blood'] 
+ Total Hours Worked: 32.72
+
+  Day M: Off
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 9.27)
+    - Helping Patient_7 with drawing blood in Williamsburg
+    - Helping Patient_7 with wound care in Williamsburg
+    - Helping Patient_20 with wound care in Williamsburg
+    - Helping Patient_41 with wound care in Williamsburg
+    - Helping Patient_67 with drawing blood in Williamsburg
+    - Helping Patient_75 with drawing blood in Williamsburg
+    - Helping Patient_94 with wound care in Williamsburg
+    - Helping Patient_98 with drawing blood in Williamsburg
+
+
+  Day Th: Working (Total Hours Worked: 7.42)
+    - Helping Patient_7 with drawing blood in Williamsburg
+    - Helping Patient_58 with drawing blood in Williamsburg
+    - Helping Patient_67 with drawing blood in Williamsburg
+    - Helping Patient_75 with drawing blood in Williamsburg
+    - Helping Patient_98 with drawing blood in Williamsburg
+
+
+  Day F: Working (Total Hours Worked: 8.62)
+    - Helping Patient_20 with wound care in Williamsburg
+    - Helping Patient_41 with wound care in Williamsburg
+    - Helping Patient_67 with drawing blood in Williamsburg
+    - Helping Patient_67 with wound care in Williamsburg
+    - Helping Patient_75 with drawing blood in Williamsburg
+    - Helping Patient_77 with wound care in Williamsburg
+    - Helping Patient_94 with wound care in Williamsburg
+    - Helping Patient_98 with drawing blood in Williamsburg
+
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 7.42)
+    - Helping Patient_5 with drawing blood in Chesapeake
+    - Helping Patient_21 with drawing blood in Chesapeake
+    - Helping Patient_52 with drawing blood in Chesapeake
+    - Helping Patient_84 with drawing blood in Chesapeake
+    - Helping Patient_86 with drawing blood in Chesapeake
+
+
+Nurse_40 
+ Skills: ['physical therapy'] 
+ Total Hours Worked: 24.65
+
+  Day M: Working (Total Hours Worked: 7.25)
+    - Helping Patient_2 with physical therapy in Lynchburg
+    - Helping Patient_15 with physical therapy in Lynchburg
+    - Helping Patient_16 with physical therapy in Lynchburg
+    - Helping Patient_24 with physical therapy in Lynchburg
+    - Helping Patient_46 with physical therapy in Lynchburg
+
+
+  Day T: Off
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 5.80)
+    - Helping Patient_31 with physical therapy in Chesapeake
+    - Helping Patient_78 with physical therapy in Chesapeake
+    - Helping Patient_93 with physical therapy in Chesapeake
+    - Helping Patient_95 with physical therapy in Chesapeake
+
+
+  Day F: Working (Total Hours Worked: 5.80)
+    - Helping Patient_31 with physical therapy in Chesapeake
+    - Helping Patient_78 with physical therapy in Chesapeake
+    - Helping Patient_93 with physical therapy in Chesapeake
+    - Helping Patient_95 with physical therapy in Chesapeake
+
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 5.80)
+    - Helping Patient_31 with physical therapy in Chesapeake
+    - Helping Patient_78 with physical therapy in Chesapeake
+    - Helping Patient_93 with physical therapy in Chesapeake
+    - Helping Patient_95 with physical therapy in Chesapeake
+
+
+Nurse_41 
+ Skills: ['wound care', 'physical therapy', 'drawing blood', 'medication', 'personal hygiene assistance', 'administering injections'] 
+ Total Hours Worked: 37.68
+
+  Day M: Working (Total Hours Worked: 9.87)
+    - Helping Patient_16 with drawing blood in Lynchburg
+    - Helping Patient_24 with wound care in Lynchburg
+    - Helping Patient_27 with wound care in Lynchburg
+    - Helping Patient_28 with drawing blood in Lynchburg
+    - Helping Patient_28 with wound care in Lynchburg
+    - Helping Patient_38 with physical therapy in Lynchburg
+    - Helping Patient_43 with administering injections in Lynchburg
+    - Helping Patient_47 with wound care in Lynchburg
+    - Helping Patient_57 with physical therapy in Lynchburg
+
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 9.37)
+    - Helping Patient_2 with physical therapy in Lynchburg
+    - Helping Patient_16 with physical therapy in Lynchburg
+    - Helping Patient_24 with physical therapy in Lynchburg
+    - Helping Patient_38 with physical therapy in Lynchburg
+    - Helping Patient_43 with administering injections in Lynchburg
+    - Helping Patient_46 with physical therapy in Lynchburg
+    - Helping Patient_57 with physical therapy in Lynchburg
+
+
+  Day Th: Working (Total Hours Worked: 9.88)
+    - Helping Patient_3 with medication in Lynchburg
+    - Helping Patient_16 with medication in Lynchburg
+    - Helping Patient_24 with personal hygiene assistance in Lynchburg
+    - Helping Patient_27 with medication in Lynchburg
+    - Helping Patient_28 with wound care in Lynchburg
+    - Helping Patient_33 with medication in Lynchburg
+    - Helping Patient_33 with wound care in Lynchburg
+    - Helping Patient_43 with administering injections in Lynchburg
+    - Helping Patient_46 with medication in Lynchburg
+    - Helping Patient_46 with physical therapy in Lynchburg
+    - Helping Patient_46 with personal hygiene assistance in Lynchburg
+    - Helping Patient_47 with wound care in Lynchburg
+    - Helping Patient_57 with personal hygiene assistance in Lynchburg
+
+
+  Day F: Off
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 8.57)
+    - Helping Patient_11 with personal hygiene assistance in Richmond
+    - Helping Patient_22 with personal hygiene assistance in Richmond
+    - Helping Patient_50 with drawing blood in Richmond
+    - Helping Patient_50 with physical therapy in Richmond
+    - Helping Patient_74 with physical therapy in Richmond
+    - Helping Patient_99 with medication in Richmond
+    - Helping Patient_99 with physical therapy in Richmond
+
+
+Nurse_42 
+ Skills: ['administering injections', 'drawing blood', 'wound care', 'medication', 'personal hygiene assistance', 'physical therapy'] 
+ Total Hours Worked: 29.85
+
+  Day M: Working (Total Hours Worked: 8.60)
+    - Helping Patient_12 with wound care in Virginia Beach
+    - Helping Patient_25 with physical therapy in Virginia Beach
+    - Helping Patient_25 with wound care in Virginia Beach
+    - Helping Patient_36 with wound care in Virginia Beach
+    - Helping Patient_48 with drawing blood in Virginia Beach
+    - Helping Patient_48 with wound care in Virginia Beach
+    - Helping Patient_68 with wound care in Virginia Beach
+    - Helping Patient_68 with administering injections in Virginia Beach
+    - Helping Patient_90 with wound care in Virginia Beach
+
+
+  Day T: Off
+
+  Day W: Off
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 8.03)
+    - Helping Patient_12 with administering injections in Virginia Beach
+    - Helping Patient_36 with medication in Virginia Beach
+    - Helping Patient_36 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_48 with drawing blood in Virginia Beach
+    - Helping Patient_59 with drawing blood in Virginia Beach
+    - Helping Patient_59 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_68 with administering injections in Virginia Beach
+    - Helping Patient_92 with medication in Virginia Beach
+    - Helping Patient_92 with administering injections in Virginia Beach
+
+
+  Day S: Working (Total Hours Worked: 8.77)
+    - Helping Patient_12 with medication in Virginia Beach
+    - Helping Patient_25 with physical therapy in Virginia Beach
+    - Helping Patient_26 with drawing blood in Virginia Beach
+    - Helping Patient_36 with medication in Virginia Beach
+    - Helping Patient_36 with personal hygiene assistance in Virginia Beach
+    - Helping Patient_48 with drawing blood in Virginia Beach
+    - Helping Patient_59 with drawing blood in Virginia Beach
+    - Helping Patient_68 with administering injections in Virginia Beach
+    - Helping Patient_92 with medication in Virginia Beach
+
+
+  Day Su: Working (Total Hours Worked: 4.45)
+    - Helping Patient_26 with drawing blood in Virginia Beach
+    - Helping Patient_48 with drawing blood in Virginia Beach
+    - Helping Patient_59 with drawing blood in Virginia Beach
+
+
+Nurse_43 
+ Skills: ['drawing blood'] 
+ Total Hours Worked: 32.63
+
+  Day M: Working (Total Hours Worked: 5.93)
+    - Helping Patient_35 with drawing blood in Norfolk
+    - Helping Patient_49 with drawing blood in Norfolk
+    - Helping Patient_60 with drawing blood in Norfolk
+    - Helping Patient_64 with drawing blood in Norfolk
+
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 8.90)
+    - Helping Patient_3 with drawing blood in Lynchburg
+    - Helping Patient_15 with drawing blood in Lynchburg
+    - Helping Patient_16 with drawing blood in Lynchburg
+    - Helping Patient_27 with drawing blood in Lynchburg
+    - Helping Patient_28 with drawing blood in Lynchburg
+    - Helping Patient_33 with drawing blood in Lynchburg
+
+
+  Day Th: Working (Total Hours Worked: 8.90)
+    - Helping Patient_3 with drawing blood in Lynchburg
+    - Helping Patient_15 with drawing blood in Lynchburg
+    - Helping Patient_16 with drawing blood in Lynchburg
+    - Helping Patient_27 with drawing blood in Lynchburg
+    - Helping Patient_28 with drawing blood in Lynchburg
+    - Helping Patient_33 with drawing blood in Lynchburg
+
+
+  Day F: Working (Total Hours Worked: 8.90)
+    - Helping Patient_3 with drawing blood in Lynchburg
+    - Helping Patient_15 with drawing blood in Lynchburg
+    - Helping Patient_16 with drawing blood in Lynchburg
+    - Helping Patient_27 with drawing blood in Lynchburg
+    - Helping Patient_28 with drawing blood in Lynchburg
+    - Helping Patient_33 with drawing blood in Lynchburg
+
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_44 
+ Skills: ['administering injections', 'medication', 'physical therapy', 'wound care', 'drawing blood'] 
+ Total Hours Worked: 33.57
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 8.27)
+    - Helping Patient_12 with wound care in Virginia Beach
+    - Helping Patient_25 with physical therapy in Virginia Beach
+    - Helping Patient_25 with wound care in Virginia Beach
+    - Helping Patient_26 with administering injections in Virginia Beach
+    - Helping Patient_36 with wound care in Virginia Beach
+    - Helping Patient_48 with drawing blood in Virginia Beach
+    - Helping Patient_48 with administering injections in Virginia Beach
+    - Helping Patient_90 with wound care in Virginia Beach
+    - Helping Patient_92 with administering injections in Virginia Beach
+
+
+  Day W: Working (Total Hours Worked: 9.18)
+    - Helping Patient_12 with medication in Virginia Beach
+    - Helping Patient_26 with drawing blood in Virginia Beach
+    - Helping Patient_36 with medication in Virginia Beach
+    - Helping Patient_48 with drawing blood in Virginia Beach
+    - Helping Patient_48 with wound care in Virginia Beach
+    - Helping Patient_59 with drawing blood in Virginia Beach
+    - Helping Patient_68 with physical therapy in Virginia Beach
+    - Helping Patient_92 with medication in Virginia Beach
+    - Helping Patient_92 with physical therapy in Virginia Beach
+
+
+  Day Th: Working (Total Hours Worked: 6.12)
+    - Helping Patient_12 with medication in Virginia Beach
+    - Helping Patient_26 with drawing blood in Virginia Beach
+    - Helping Patient_36 with medication in Virginia Beach
+    - Helping Patient_48 with drawing blood in Virginia Beach
+    - Helping Patient_59 with drawing blood in Virginia Beach
+    - Helping Patient_68 with administering injections in Virginia Beach
+    - Helping Patient_92 with medication in Virginia Beach
+
+
+  Day F: Working (Total Hours Worked: 10.00)
+    - Helping Patient_12 with medication in Virginia Beach
+    - Helping Patient_12 with wound care in Virginia Beach
+    - Helping Patient_25 with physical therapy in Virginia Beach
+    - Helping Patient_26 with drawing blood in Virginia Beach
+    - Helping Patient_26 with administering injections in Virginia Beach
+    - Helping Patient_36 with wound care in Virginia Beach
+    - Helping Patient_48 with wound care in Virginia Beach
+    - Helping Patient_48 with administering injections in Virginia Beach
+    - Helping Patient_68 with physical therapy in Virginia Beach
+    - Helping Patient_92 with physical therapy in Virginia Beach
+
+
+  Day S: Off
+
+  Day Su: Off
+
+Nurse_45 
+ Skills: ['wound care', 'medication', 'personal hygiene assistance'] 
+ Total Hours Worked: 23.80
+
+  Day M: Working (Total Hours Worked: 7.40)
+    - Helping Patient_19 with medication in Arlington
+    - Helping Patient_19 with wound care in Arlington
+    - Helping Patient_44 with medication in Arlington
+    - Helping Patient_70 with medication in Arlington
+    - Helping Patient_70 with wound care in Arlington
+    - Helping Patient_73 with medication in Arlington
+    - Helping Patient_79 with medication in Arlington
+    - Helping Patient_79 with wound care in Arlington
+    - Helping Patient_82 with wound care in Arlington
+    - Helping Patient_82 with personal hygiene assistance in Arlington
+    - Helping Patient_89 with personal hygiene assistance in Arlington
+
+
+  Day T: Off
+
+  Day W: Off
+
+  Day Th: Working (Total Hours Worked: 6.77)
+    - Helping Patient_17 with personal hygiene assistance in Alexandria
+    - Helping Patient_23 with medication in Alexandria
+    - Helping Patient_23 with wound care in Alexandria
+    - Helping Patient_29 with personal hygiene assistance in Alexandria
+    - Helping Patient_54 with medication in Alexandria
+    - Helping Patient_54 with wound care in Alexandria
+    - Helping Patient_54 with personal hygiene assistance in Alexandria
+    - Helping Patient_62 with wound care in Alexandria
+
+
+  Day F: Working (Total Hours Worked: 2.87)
+    - Helping Patient_17 with personal hygiene assistance in Alexandria
+    - Helping Patient_23 with wound care in Alexandria
+    - Helping Patient_54 with wound care in Alexandria
+
+
+  Day S: Working (Total Hours Worked: 6.77)
+    - Helping Patient_17 with personal hygiene assistance in Alexandria
+    - Helping Patient_23 with medication in Alexandria
+    - Helping Patient_23 with wound care in Alexandria
+    - Helping Patient_29 with personal hygiene assistance in Alexandria
+    - Helping Patient_54 with medication in Alexandria
+    - Helping Patient_54 with wound care in Alexandria
+    - Helping Patient_54 with personal hygiene assistance in Alexandria
+    - Helping Patient_62 with wound care in Alexandria
+
+
+  Day Su: Off
+
+Nurse_46 
+ Skills: ['drawing blood', 'wound care'] 
+ Total Hours Worked: 34.02
+
+  Day M: Working (Total Hours Worked: 9.92)
+    - Helping Patient_5 with drawing blood in Chesapeake
+    - Helping Patient_8 with wound care in Chesapeake
+    - Helping Patient_21 with drawing blood in Chesapeake
+    - Helping Patient_52 with drawing blood in Chesapeake
+    - Helping Patient_53 with wound care in Chesapeake
+    - Helping Patient_84 with drawing blood in Chesapeake
+    - Helping Patient_86 with drawing blood in Chesapeake
+    - Helping Patient_97 with wound care in Chesapeake
+
+
+  Day T: Working (Total Hours Worked: 9.92)
+    - Helping Patient_5 with drawing blood in Chesapeake
+    - Helping Patient_8 with wound care in Chesapeake
+    - Helping Patient_21 with drawing blood in Chesapeake
+    - Helping Patient_52 with drawing blood in Chesapeake
+    - Helping Patient_84 with drawing blood in Chesapeake
+    - Helping Patient_86 with drawing blood in Chesapeake
+    - Helping Patient_96 with wound care in Chesapeake
+    - Helping Patient_97 with wound care in Chesapeake
+
+
+  Day W: Working (Total Hours Worked: 4.45)
+    - Helping Patient_5 with drawing blood in Chesapeake
+    - Helping Patient_21 with drawing blood in Chesapeake
+    - Helping Patient_86 with drawing blood in Chesapeake
+
+
+  Day Th: Off
+
+  Day F: Off
+
+  Day S: Working (Total Hours Worked: 9.73)
+    - Helping Patient_3 with drawing blood in Lynchburg
+    - Helping Patient_15 with drawing blood in Lynchburg
+    - Helping Patient_16 with drawing blood in Lynchburg
+    - Helping Patient_27 with drawing blood in Lynchburg
+    - Helping Patient_28 with drawing blood in Lynchburg
+    - Helping Patient_28 with wound care in Lynchburg
+    - Helping Patient_33 with drawing blood in Lynchburg
+
+
+  Day Su: Off
+
+Nurse_47 
+ Skills: ['personal hygiene assistance', 'medication', 'drawing blood', 'administering injections', 'wound care', 'physical therapy'] 
+ Total Hours Worked: 30.07
+
+  Day M: Off
+
+  Day T: Working (Total Hours Worked: 7.52)
+    - Helping Patient_1 with administering injections in Fredericksburg
+    - Helping Patient_18 with administering injections in Fredericksburg
+    - Helping Patient_37 with administering injections in Fredericksburg
+    - Helping Patient_37 with personal hygiene assistance in Fredericksburg
+    - Helping Patient_42 with administering injections in Fredericksburg
+    - Helping Patient_69 with medication in Fredericksburg
+    - Helping Patient_76 with medication in Fredericksburg
+    - Helping Patient_76 with administering injections in Fredericksburg
+    - Helping Patient_88 with wound care in Fredericksburg
+    - Helping Patient_91 with drawing blood in Fredericksburg
+
+
+  Day W: Off
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 7.52)
+    - Helping Patient_1 with administering injections in Fredericksburg
+    - Helping Patient_18 with administering injections in Fredericksburg
+    - Helping Patient_37 with administering injections in Fredericksburg
+    - Helping Patient_37 with personal hygiene assistance in Fredericksburg
+    - Helping Patient_42 with administering injections in Fredericksburg
+    - Helping Patient_69 with medication in Fredericksburg
+    - Helping Patient_76 with medication in Fredericksburg
+    - Helping Patient_76 with administering injections in Fredericksburg
+    - Helping Patient_88 with wound care in Fredericksburg
+    - Helping Patient_91 with drawing blood in Fredericksburg
+
+
+  Day S: Working (Total Hours Worked: 7.52)
+    - Helping Patient_1 with administering injections in Fredericksburg
+    - Helping Patient_18 with administering injections in Fredericksburg
+    - Helping Patient_37 with administering injections in Fredericksburg
+    - Helping Patient_37 with personal hygiene assistance in Fredericksburg
+    - Helping Patient_42 with administering injections in Fredericksburg
+    - Helping Patient_69 with medication in Fredericksburg
+    - Helping Patient_76 with medication in Fredericksburg
+    - Helping Patient_76 with administering injections in Fredericksburg
+    - Helping Patient_88 with wound care in Fredericksburg
+    - Helping Patient_91 with drawing blood in Fredericksburg
+
+
+  Day Su: Working (Total Hours Worked: 7.52)
+    - Helping Patient_1 with administering injections in Fredericksburg
+    - Helping Patient_18 with administering injections in Fredericksburg
+    - Helping Patient_37 with administering injections in Fredericksburg
+    - Helping Patient_37 with personal hygiene assistance in Fredericksburg
+    - Helping Patient_42 with administering injections in Fredericksburg
+    - Helping Patient_69 with medication in Fredericksburg
+    - Helping Patient_76 with medication in Fredericksburg
+    - Helping Patient_76 with administering injections in Fredericksburg
+    - Helping Patient_88 with wound care in Fredericksburg
+    - Helping Patient_91 with drawing blood in Fredericksburg
+
+
+Nurse_48 
+ Skills: ['medication'] 
+ Total Hours Worked: 2.67
+
+  Day M: Off
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 0.67)
+    - Helping Patient_32 with medication in Norfolk
+    - Helping Patient_35 with medication in Norfolk
+
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 0.67)
+    - Helping Patient_32 with medication in Norfolk
+    - Helping Patient_35 with medication in Norfolk
+
+
+  Day S: Working (Total Hours Worked: 0.67)
+    - Helping Patient_32 with medication in Norfolk
+    - Helping Patient_35 with medication in Norfolk
+
+
+  Day Su: Working (Total Hours Worked: 0.67)
+    - Helping Patient_32 with medication in Norfolk
+    - Helping Patient_35 with medication in Norfolk
+
+
+Nurse_49 
+ Skills: ['personal hygiene assistance', 'physical therapy', 'administering injections', 'wound care', 'drawing blood', 'medication'] 
+ Total Hours Worked: 32.45
+
+  Day M: Working (Total Hours Worked: 7.52)
+    - Helping Patient_1 with administering injections in Fredericksburg
+    - Helping Patient_18 with administering injections in Fredericksburg
+    - Helping Patient_37 with administering injections in Fredericksburg
+    - Helping Patient_37 with personal hygiene assistance in Fredericksburg
+    - Helping Patient_42 with administering injections in Fredericksburg
+    - Helping Patient_69 with medication in Fredericksburg
+    - Helping Patient_76 with medication in Fredericksburg
+    - Helping Patient_76 with administering injections in Fredericksburg
+    - Helping Patient_88 with wound care in Fredericksburg
+    - Helping Patient_91 with drawing blood in Fredericksburg
+
+
+  Day T: Off
+
+  Day W: Working (Total Hours Worked: 7.52)
+    - Helping Patient_1 with administering injections in Fredericksburg
+    - Helping Patient_18 with administering injections in Fredericksburg
+    - Helping Patient_37 with administering injections in Fredericksburg
+    - Helping Patient_37 with personal hygiene assistance in Fredericksburg
+    - Helping Patient_42 with administering injections in Fredericksburg
+    - Helping Patient_69 with medication in Fredericksburg
+    - Helping Patient_76 with medication in Fredericksburg
+    - Helping Patient_76 with administering injections in Fredericksburg
+    - Helping Patient_88 with wound care in Fredericksburg
+    - Helping Patient_91 with drawing blood in Fredericksburg
+
+
+  Day Th: Working (Total Hours Worked: 7.52)
+    - Helping Patient_1 with administering injections in Fredericksburg
+    - Helping Patient_18 with administering injections in Fredericksburg
+    - Helping Patient_37 with administering injections in Fredericksburg
+    - Helping Patient_37 with personal hygiene assistance in Fredericksburg
+    - Helping Patient_42 with administering injections in Fredericksburg
+    - Helping Patient_69 with medication in Fredericksburg
+    - Helping Patient_76 with medication in Fredericksburg
+    - Helping Patient_76 with administering injections in Fredericksburg
+    - Helping Patient_88 with wound care in Fredericksburg
+    - Helping Patient_91 with drawing blood in Fredericksburg
+
+
+  Day F: Off
+
+  Day S: Off
+
+  Day Su: Working (Total Hours Worked: 9.90)
+    - Helping Patient_7 with drawing blood in Williamsburg
+    - Helping Patient_7 with administering injections in Williamsburg
+    - Helping Patient_9 with personal hygiene assistance in Williamsburg
+    - Helping Patient_14 with personal hygiene assistance in Williamsburg
+    - Helping Patient_39 with administering injections in Williamsburg
+    - Helping Patient_41 with administering injections in Williamsburg
+    - Helping Patient_58 with drawing blood in Williamsburg
+    - Helping Patient_66 with administering injections in Williamsburg
+    - Helping Patient_67 with personal hygiene assistance in Williamsburg
+    - Helping Patient_77 with administering injections in Williamsburg
+
+
+Nurse_50 
+ Skills: ['administering injections', 'physical therapy'] 
+ Total Hours Worked: 25.83
+
+  Day M: Working (Total Hours Worked: 9.13)
+    - Helping Patient_7 with administering injections in Williamsburg
+    - Helping Patient_9 with physical therapy in Williamsburg
+    - Helping Patient_13 with physical therapy in Williamsburg
+    - Helping Patient_39 with administering injections in Williamsburg
+    - Helping Patient_41 with physical therapy in Williamsburg
+    - Helping Patient_41 with administering injections in Williamsburg
+    - Helping Patient_66 with physical therapy in Williamsburg
+    - Helping Patient_66 with administering injections in Williamsburg
+    - Helping Patient_77 with administering injections in Williamsburg
+
+
+  Day T: Working (Total Hours Worked: 4.23)
+    - Helping Patient_9 with physical therapy in Williamsburg
+    - Helping Patient_13 with physical therapy in Williamsburg
+    - Helping Patient_39 with administering injections in Williamsburg
+    - Helping Patient_66 with administering injections in Williamsburg
+
+
+  Day W: Off
+
+  Day Th: Off
+
+  Day F: Working (Total Hours Worked: 3.33)
+    - Helping Patient_7 with administering injections in Williamsburg
+    - Helping Patient_39 with administering injections in Williamsburg
+    - Helping Patient_41 with administering injections in Williamsburg
+    - Helping Patient_66 with administering injections in Williamsburg
+    - Helping Patient_77 with administering injections in Williamsburg
+
+
+  Day S: Working (Total Hours Worked: 9.13)
+    - Helping Patient_7 with administering injections in Williamsburg
+    - Helping Patient_9 with physical therapy in Williamsburg
+    - Helping Patient_13 with physical therapy in Williamsburg
+    - Helping Patient_39 with administering injections in Williamsburg
+    - Helping Patient_41 with physical therapy in Williamsburg
+    - Helping Patient_41 with administering injections in Williamsburg
+    - Helping Patient_66 with physical therapy in Williamsburg
+    - Helping Patient_66 with administering injections in Williamsburg
+    - Helping Patient_77 with administering injections in Williamsburg
+
+
+  Day Su: Off
